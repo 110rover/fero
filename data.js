@@ -806,12 +806,8 @@ window.TRIP = {
     ],
     "Semuc Champey": [
       {
-        "name": "Tubing",
-        "desc": "Drijven in een band met een biertje in je hand over de rivier, een echte klassieker."
-      },
-      {
         "name": "Lodge chillen",
-        "desc": "Weinig te doen in het dorp; mensen blijven vaak bij de lodge of in het natuurpark."
+        "desc": "Weinig te doen in het dorp; de meesten blijven bij de lodge of in het natuurpark."
       }
     ],
     "Yaxhá": [

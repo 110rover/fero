@@ -62,8 +62,7 @@ const SPOTS = {
     { name: "Santa Cruz", desc: "Beste uitzicht op de vulkanen. Free Cerveza voor happy hour aan het eind van de dag." },
   ],
   "Semuc Champey": [
-    { name: "Tubing", desc: "Drijven in een band met een biertje in je hand over de rivier, een echte klassieker." },
-    { name: "Lodge chillen", desc: "Weinig te doen in het dorp; mensen blijven vaak bij de lodge of in het natuurpark." },
+    { name: "Lodge chillen", desc: "Weinig te doen in het dorp; de meesten blijven bij de lodge of in het natuurpark." },
   ],
   Yaxhá: [
     { name: "Flores", desc: "Pittoresk eilandje op een meer; basis voor Tikal & Yaxhá. Kayak rond het eiland, Jorge's Ropeswing (Q10 entree, bier + nacho's, schommelen in het water)." },
