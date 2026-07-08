@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="theme-color" content="#C17C5E" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+  <meta name="apple-mobile-web-app-title" content="Fero" />
+  <title>Fero · Guatemala & Belize 2026</title>
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="icon" type="image/svg+xml" href="icon.svg" />
+  <link rel="apple-touch-icon" href="icon-180.png" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <!-- Toegangspoort (groepscode) -->
+  <div id="gate" class="gate" hidden>
+    <div class="gate-card">
+      <div class="gate-sun" aria-hidden="true"></div>
+      <p class="gate-eyebrow">Jaarclub Fero · Lustrumreis</p>
+      <h1 class="gate-title">Guatemala<br />& Belize</h1>
+      <p class="gate-sub">Voer de groepscode in om verder te gaan.</p>
+      <form id="gate-form">
+        <input id="gate-input" type="password" inputmode="text" autocomplete="off"
+               placeholder="Groepscode" aria-label="Groepscode" />
+        <button type="submit">On y va</button>
+      </form>
+      <p id="gate-error" class="gate-error" hidden>Hmm, dat klopt niet. Probeer opnieuw.</p>
+    </div>
+  </div>
+
+  <!-- App -->
+  <div id="app" hidden>
+    <header class="topbar">
+      <div class="topbar-inner">
+        <span class="brand">Fero</span>
+        <span class="brand-sub" id="topbar-sub">Guatemala & Belize</span>
+      </div>
+    </header>
+
+    <main id="view" class="view"><!-- gerenderd door app.js --></main>
+
+    <nav class="tabbar" id="tabbar">
+      <button data-tab="vandaag" class="tab is-active"><span class="ti">◉</span><span class="tlabel">Vandaag</span></button>
+      <button data-tab="plekken" class="tab"><span class="ti">📍</span><span class="tlabel">Plekken</span></button>
+      <button data-tab="route" class="tab"><span class="ti">⛰</span><span class="tlabel">Route</span></button>
+      <button data-tab="appel" class="tab"><span class="ti">✓</span><span class="tlabel">Compleet?</span></button>
+      <button data-tab="info" class="tab"><span class="ti">ℹ</span><span class="tlabel">Info</span></button>
+    </nav>
+  </div>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
