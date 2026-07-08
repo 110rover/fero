@@ -62,6 +62,7 @@ const SPOTS = {
     { name: "Santa Cruz", desc: "Beste uitzicht op de vulkanen. Free Cerveza voor happy hour aan het eind van de dag." },
   ],
   "Semuc Champey": [
+    { name: "Tuben", desc: "Drijven in een band met een biertje in de hand over de rivier, een echte klassieker." },
     { name: "Lodge chillen", desc: "Weinig te doen in het dorp; de meesten blijven bij de lodge of in het natuurpark." },
   ],
   Yaxhá: [

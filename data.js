@@ -492,15 +492,16 @@ window.TRIP = {
         "l": false,
         "d": false
       },
-      "intro": "Een toffe hostel met een fijne vibe en een heerlijk zwembad met jungle-uitzicht. De ActiviteitenCO heeft voor vandaag iets voor ons geregeld, als het weer meezit, maar wát het is blijft nog even een verrassing. De tijden horen we pas bij aankomst (zaterdag of zondag). Gaat het niet door? Dan hebben we een heerlijke vrije dag bij de pool.",
+      "intro": "Een toffe hostel met een fijne vibe en een heerlijk zwembad met jungle-uitzicht. Als het weer meezit, heeft de ActiviteitenCO tuben op de Lanquín-rivier geregeld: drijven met een koud biertje, twee stops voor spelletjes en lunch, en aan het eind kunnen jullie je sprong van de brug showen. We gaan heen via de Grutas de Lanquín en terug naar de lodge in een jungle-Unimog. De tijden horen we pas bij aankomst (zaterdag of zondag). Gaat het niet door? Dan hebben we een heerlijke vrije dag bij de pool.",
       "activity": [
         {
           "dep": "n.t.b.",
-          "name": "Verrassing van de ActiviteitenCO (als het weer meezit)",
+          "name": "Tuben op de Lanquín-rivier (als het weer meezit)",
           "pickup": "Zephyr Lodge",
           "bring": [
             "Water",
-            "Zonnebrand"
+            "Zonnebrand",
+            "Geen schoenen"
           ],
           "map": "Zephyr Lodge, Lanquin, Guatemala"
         }
@@ -813,6 +814,10 @@ window.TRIP = {
       }
     ],
     "Semuc Champey": [
+      {
+        "name": "Tuben",
+        "desc": "Drijven in een band met een biertje in de hand over de rivier, een echte klassieker."
+      },
       {
         "name": "Lodge chillen",
         "desc": "Weinig te doen in het dorp; de meesten blijven bij de lodge of in het natuurpark."

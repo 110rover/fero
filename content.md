@@ -112,8 +112,8 @@ Iris Brouwer · Roos Burkens · Pien Goselink · Willemijn Jansen · Valentine K
 - **Maaltijden:** Ontbijt/–/–
 
 ### Dag 9 · Dinsdag 28 juli · Semuc Champey · Vrije dag bij de jungle-pool
-**Intro:** Een toffe hostel met een fijne vibe en een heerlijk zwembad met jungle-uitzicht. De ActiviteitenCO heeft voor vandaag iets voor ons geregeld, als het weer meezit, maar wát het is blijft nog even een verrassing. De tijden horen we pas bij aankomst (zaterdag of zondag). Gaat het niet door? Dan hebben we een heerlijke vrije dag bij de pool.
-- **Activiteit:** n.t.b. · Verrassing van de ActiviteitenCO (als het weer meezit) · ophalen: Zephyr Lodge · meenemen: Water; Zonnebrand
+**Intro:** Een toffe hostel met een fijne vibe en een heerlijk zwembad met jungle-uitzicht. Als het weer meezit, heeft de ActiviteitenCO tuben op de Lanquín-rivier geregeld: drijven met een koud biertje, twee stops voor spelletjes en lunch, en aan het eind kunnen jullie je sprong van de brug showen. We gaan heen via de Grutas de Lanquín en terug naar de lodge in een jungle-Unimog. De tijden horen we pas bij aankomst (zaterdag of zondag). Gaat het niet door? Dan hebben we een heerlijke vrije dag bij de pool.
+- **Activiteit:** n.t.b. · Tuben op de Lanquín-rivier (als het weer meezit) · ophalen: Zephyr Lodge · meenemen: Water; Zonnebrand; Geen schoenen
 - **Verblijf:** Zephyr Lodge
 - **Maaltijden:** Ontbijt/–/–
 
