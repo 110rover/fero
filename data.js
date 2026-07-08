@@ -556,7 +556,7 @@ window.TRIP = {
         "l": false,
         "d": false
       },
-      "intro": "Na de lunch haalt gids Luis ons op bij El Sombrero. We hiken de jungle in en leren onderweg over de dieren en planten. Vanaf de top van een tempel kijken we naar de zonsondergang, en daarna beleven we een compleet andere jungle in het donker. Voor de maaltijden zijn we aangewezen op de lodge: alleen het ontbijt is inbegrepen, de rest is voor eigen rekening.",
+      "intro": "Na de lunch haalt gids Luis ons op bij El Sombrero. We hiken de jungle in en leren onderweg over de dieren en planten. Vanaf de top van een tempel kijken we naar de zonsondergang, en daarna beleven we een compleet andere jungle in het donker. Voor de maaltijden zijn we aangewezen op de lodge: alleen het ontbijt is inbegrepen, de rest is voor eigen rekening. De parkentree (Q80 p.p.) regelen Vonk en Emma, die hoef je niet zelf te pinnen.",
       "activity": [
         {
           "dep": "15:00",
@@ -570,7 +570,6 @@ window.TRIP = {
             "Bedekkende kleding",
             "Snacks & drank",
             "Paspoort (verplicht park)",
-            "Cash (Yaxhá Q80 p.p.)",
             "Optioneel: verrekijker"
           ],
           "map": "El Sombrero Ecolodge, Yaxha, Guatemala"

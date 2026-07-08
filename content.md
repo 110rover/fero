@@ -124,8 +124,8 @@ Iris Brouwer · Roos Burkens · Pien Goselink · Willemijn Jansen · Valentine K
 - **Maaltijden:** Ontbijt/–/–
 
 ### Dag 11 · Donderdag 30 juli · Yaxhá · Yaxhá hike & zonsondergang
-**Intro:** Na de lunch haalt gids Luis ons op bij El Sombrero. We hiken de jungle in en leren onderweg over de dieren en planten. Vanaf de top van een tempel kijken we naar de zonsondergang, en daarna beleven we een compleet andere jungle in het donker. Voor de maaltijden zijn we aangewezen op de lodge: alleen het ontbijt is inbegrepen, de rest is voor eigen rekening.
-- **Activiteit:** 15:00 · Yaxhá hike · duur: 4 uur · ophalen: Ecolodge El Sombrero · meenemen: Headlamp; Zonnebrand; Muggenspray; Bedekkende kleding; Snacks & drank; Paspoort (verplicht park); Cash (Yaxhá Q80 p.p.); Optioneel: verrekijker
+**Intro:** Na de lunch haalt gids Luis ons op bij El Sombrero. We hiken de jungle in en leren onderweg over de dieren en planten. Vanaf de top van een tempel kijken we naar de zonsondergang, en daarna beleven we een compleet andere jungle in het donker. Voor de maaltijden zijn we aangewezen op de lodge: alleen het ontbijt is inbegrepen, de rest is voor eigen rekening. De parkentree (Q80 p.p.) regelen Vonk en Emma, die hoef je niet zelf te pinnen.
+- **Activiteit:** 15:00 · Yaxhá hike · duur: 4 uur · ophalen: Ecolodge El Sombrero · meenemen: Headlamp; Zonnebrand; Muggenspray; Bedekkende kleding; Snacks & drank; Paspoort (verplicht park); Optioneel: verrekijker
 - **Verblijf:** Ecolodge El Sombrero
 - **Maaltijden:** Ontbijt/–/–
 
