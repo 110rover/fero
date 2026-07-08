@@ -419,7 +419,10 @@ window.TRIP = {
         "l": false,
         "d": false
       },
-      "intro": "Vandaag is een reisdag, diep de Guatemalteekse jungle in. De chauffeur brengt ons naar het meeting point in Lanquín; vanaf daar rijdt het hotel het laatste stuk met 4x4's. Het is een lange rit, dus houd de stops kort en neem genoeg eten en drinken mee. Bestel bij aankomst meteen het ontbijt voor de volgende ochtend!",
+      "intro": "Vandaag is een reisdag, diep de Guatemalteekse jungle in. De chauffeur brengt ons naar het meeting point in Lanquín; vanaf daar rijdt het hotel het laatste stuk met 4x4's. Het is een lange rit, dus houd de stops kort en neem genoeg eten en drinken mee.",
+      "tips": [
+        "Bestel bij aankomst bij Zephyr meteen het ontbijt voor de volgende ochtend, zodat het op tijd klaarstaat voordat de Semuc-tour vertrekt."
+      ],
       "transport": [
         {
           "dep": "07:00",

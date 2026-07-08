@@ -99,7 +99,8 @@ Iris Brouwer · Roos Burkens · Pien Goselink · Willemijn Jansen · Valentine K
 - **Maaltijden:** –/–/–
 
 ### Dag 7 · Zondag 26 juli · Semuc Champey · Reisdag naar de jungle
-**Intro:** Vandaag is een reisdag, diep de Guatemalteekse jungle in. De chauffeur brengt ons naar het meeting point in Lanquín; vanaf daar rijdt het hotel het laatste stuk met 4x4's. Het is een lange rit, dus houd de stops kort en neem genoeg eten en drinken mee. Bestel bij aankomst meteen het ontbijt voor de volgende ochtend!
+**Intro:** Vandaag is een reisdag, diep de Guatemalteekse jungle in. De chauffeur brengt ons naar het meeting point in Lanquín; vanaf daar rijdt het hotel het laatste stuk met 4x4's. Het is een lange rit, dus houd de stops kort en neem genoeg eten en drinken mee.
+**Tip:** Bestel bij aankomst bij Zephyr meteen het ontbijt voor de volgende ochtend, zodat het op tijd klaarstaat voordat de Semuc-tour vertrekt.
 - **Transport:** 07:00 · Atitlán → Lanquín (Zephyr Lodge) · duur: 11 uur · ophalen: Villa Lisa · meenemen: Genoeg eten & drinken voor de rit
 - **Verblijf:** Zephyr Lodge
 - **Maaltijden:** Ontbijt/–/–
