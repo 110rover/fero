@@ -162,7 +162,7 @@ window.TRIP = {
         "l": false,
         "d": false
       },
-      "intro": "¡Bienvenidas a Guatemala! Hopelijk hebben jullie een goede reis gehad. Iedereen komt verspreid over de dag aan. Voor iedereen hebben we vervoer geregeld naar ons hostel in Antigua. Als jullie de aankomsthal uit lopen, houd dan rechts aan (uitgang bij café Baretto): daar staat een chauffeur met een Fero/Lustrumfiesta-bordje. Zien jullie de bus niet meteen? Dan rijdt die even een rondje, want lang stilstaan mag daar niet. Weiger mannen die jullie bagage \"willen helpen\" dragen, ze vragen er geld voor. Vanavond is er geen diner geregeld, dus eet iets op het vliegveld of onderweg. Hieronder staan de heenvluchten en in welke groepjes jullie naar Antigua reizen.",
+      "intro": "¡Bienvenidas a Guatemala! Hopelijk hebben jullie een goede reis gehad. Iedereen komt verspreid over de dag aan. Voor iedereen hebben we vervoer geregeld naar ons hostel in Antigua. Als jullie de aankomsthal uit lopen, houd dan rechts aan (uitgang bij café Baretto): daar staat een chauffeur met een Fero/Lustrumfiesta-bordje. Zien jullie de bus niet meteen? Dan rijdt die even een rondje, want lang stilstaan mag daar niet. Weiger mannen die jullie bagage \"willen helpen\" dragen, ze vragen er geld voor. Vanavond is er geen diner geregeld, dus eet iets op het vliegveld, onderweg of in Antigua. Hieronder staan de heenvluchten en in welke groepjes jullie naar Antigua reizen.",
       "arrivals": [
         {
           "code": "CM102",
@@ -171,7 +171,7 @@ window.TRIP = {
             "Maxime",
             "Willemijn"
           ],
-          "transport": "taxi (anders Uber)"
+          "transport": "taxi"
         },
         {
           "code": "IB0221",
@@ -238,7 +238,7 @@ window.TRIP = {
       "intro": "Hoe is de jetlag? We beginnen met een gezamenlijk ontbijt, en er is iemand jarig, hoera! Daarna doen we een city tour door het kleurrijke koloniale Antigua. 's Middags leren we tijdens een kookles traditionele Guatemalteekse gerechten maken (tortilla's en Pepián); dat is meteen ons avondeten. Antigua ligt op 1500 meter, dus de zon is fel: neem een pet, zonnebril en zonnebrand mee. Tussen de city tour (klaar rond 13:00) en de kookles (start 15:45) hebben we vrije tijd, en dat is meteen het enige echt vrije moment in Antigua. Gebruik het slim: pin Quetzales (vraag de gids tijdens de tour naar een goede pinautomaat) en sla wat snacks en drankjes in voor onderweg de komende dagen. Na de kookles vieren we 's avonds Jade's verjaardag met cocktails bij Ulew Cocktail Bar (om de hoek bij het hostel, 3 Poniente).",
       "festive": "Jade is jarig 🎉",
       "proposals": [
-        "Samen lunchen? Wij stellen voor om direct na de city tour te gaan lunchen bij Café Bohème. Ga gezellig mee, of doe lekker jullie eigen ding, allebei prima. Dit is wel het enige vrije moment in Antigua, dus deel het bewust in."
+        "Samen lunchen? Wij stellen voor om direct na de city tour te gaan lunchen bij Café Bohème. Ga gezellig mee, of doe lekker jullie eigen ding, allebei prima."
       ],
       "tips": [
         "Pak vanavond alvast de twee tassen voor de vulkaan van morgen: één tas die met jullie de berg op gaat, en één tas die onderaan de vulkaan in de opslag blijft. Regel dit vanavond, zodat alles morgen vóór vertrek al klaar is en we het niet ter plekke bij de vulkaan hoeven uit te zoeken."
@@ -357,7 +357,7 @@ window.TRIP = {
         "l": false,
         "d": false
       },
-      "intro": "Genoeg gezien en gedaan: tijd om te ontspannen bij onze heerlijk chille accommodatie aan Lago Atitlán. Zonnen, een verfrissende duik en gewoon even helemaal niks. Ook een mooie dag om met de hele groep een groepsfoto te maken.",
+      "intro": "Genoeg gezien en gedaan: tijd om te ontspannen bij onze heerlijk chille accommodatie aan Lago Atitlán. Zonnen, een verfrissende duik en gewoon even helemaal niks. Ook een mooie dag om met de hele club een groepsfoto te maken.",
       "acc": {
         "name": "Villa Lisa",
         "coords": [
@@ -378,7 +378,7 @@ window.TRIP = {
         "l": false,
         "d": false
       },
-      "intro": "Tijd om de prachtige omgeving van Lago Atitlán te verkennen. De gids haalt ons met een privéboot op bij de steiger en vaart met ons langs de dorpjes rond het meer (San Juan, Santiago, San Marcos, San Pedro en meer). Overleg samen met de gids wat jullie het leukst lijkt; willen jullie je van tevoren verdiepen in de dorpjes, kijk dan vast hier (https://www.reisjunk.nl/guatemala/lake-atitlan/). Een klifsprong kan voor ±Q25.",
+      "intro": "Tijd om de prachtige omgeving van Lago Atitlán te verkennen. De gids haalt ons met een privéboot op bij de steiger en vaart met ons langs de dorpjes rond het meer (San Juan, Santiago, San Marcos, San Pedro en meer). We overleggen samen met de gids wat ons het leukst lijkt; willen jullie je van tevoren verdiepen in de dorpjes, kijk dan vast hier (https://www.reisjunk.nl/guatemala/lake-atitlan/). Een klifsprong kan voor ±Q25.",
       "activity": [
         {
           "dep": "09:30",
@@ -484,16 +484,15 @@ window.TRIP = {
         "l": false,
         "d": false
       },
-      "intro": "Een toffe hostel met een fijne vibe en een heerlijk zwembad met jungle-uitzicht. Als het weer meezit, heeft de ActiviteitenCO tubing op de Lanquín-rivier geregeld: drijven met een biertje, twee stops voor spelletjes en lunch, en aan het eind een sprong van de brug. We gaan heen via de Grutas de Lanquín en terug naar de lodge in een jungle-Unimog. De tijden horen we pas bij aankomst (zaterdag of zondag). Geen tubing? Dan hebben we een vrije dag bij de pool.",
+      "intro": "Een toffe hostel met een fijne vibe en een heerlijk zwembad met jungle-uitzicht. De ActiviteitenCO heeft voor vandaag iets voor ons geregeld, als het weer meezit, maar wát het is blijft nog even een verrassing. De tijden horen we pas bij aankomst (zaterdag of zondag). Gaat het niet door? Dan hebben we een heerlijke vrije dag bij de pool.",
       "activity": [
         {
           "dep": "n.t.b.",
-          "name": "Tubing Lanquín-rivier (als het weer het toelaat)",
+          "name": "Verrassing van de ActiviteitenCO (als het weer meezit)",
           "pickup": "Zephyr Lodge",
           "bring": [
             "Water",
-            "Zonnebrand",
-            "Geen schoenen"
+            "Zonnebrand"
           ],
           "map": "Zephyr Lodge, Lanquin, Guatemala"
         }
@@ -586,6 +585,9 @@ window.TRIP = {
         "d": true
       },
       "intro": "Adiós Guatemala, hola Belize! Vandaag beginnen we aan een overnight sailing trip: we zeilen over helder blauw water en kamperen op een onbewoond eiland. We vertrekken om 08:00 vanaf El Sombrero, dus zorg dat jullie bagage ruim op tijd klaarstaat. Na de grens wisselen we van voertuig; in Belize City stappen we tussen 11:00 en 12:00 op de boot. Alle bagage gaat mee aan boord. Verwacht geen luxe: het is Robinson-Crusoe-stijl, met basic tentjes op het strand. Zorg dat jullie genoeg drinken en snacks bij je hebben voor op het eiland.",
+      "tips": [
+        "Alle bagage gaat mee op de boot, maar houd de spullen die jullie op het eiland nodig hebben (zwemkleding, een warme laag voor de nacht, toiletspullen, snacks) apart in een klein tasje. Dan hoeven jullie op het eiland niet je hele koffer open te trekken."
+      ],
       "transport": [
         {
           "dep": "08:00",
@@ -687,7 +689,7 @@ window.TRIP = {
         "l": false,
         "d": false
       },
-      "intro": "Een fijne, vrije dag. We dompelen ons onder in het tranquilo, relaxte Caribische eilandleven. Buena onda! 's Avonds sluiten we de reis af met een gezamenlijk goodbye-diner (locatie volgt nog; we rekenen zelf af).",
+      "intro": "Een fijne, vrije dag. We dompelen ons onder in het tranquilo, relaxte Caribische eilandleven. Buena onda! 's Avonds sluiten we de reis af met een gezamenlijk goodbye-diner (locatie volgt nog).",
       "acc": {
         "name": "Iguana Reef Inn",
         "map": "Iguana Reef Inn, Caye Caulker, Belize"
@@ -705,7 +707,7 @@ window.TRIP = {
         "l": false,
         "d": false
       },
-      "intro": "Alles komt tot een einde. Vandaag reizen we naar het vliegveld, en dat gaat op twee manieren, afhankelijk van waarvandaan je vliegt. Kijk bij \"Vertrek laatste dag\" in de Info-tab wie welke route neemt. Ga je via Belize City? We hebben een taxi geregeld van de ferry naar het vliegveld van Belize City. Wil je die taxi mee, neem dan de eerste ferry van 06:30, dan ben je rond 8:00 op het vliegveld. Het ferryticket is de hele dag geldig, dus een latere ferry mag ook, maar dan regel je zelf een taxi. Ga je via Chetumal (Mexico)? Let op: naar Chetumal vaart maar één boot per dag, om 07:00 vanaf Caye Caulker (met een immigratiestop in San Pedro rond 08:30, aankomst Chetumal rond 10:30). Die boot van 07:00 moeten jullie dus halen; een latere boot is er die dag niet. Check sowieso je eigen vluchttijden nog een keer en check online in. We hopen dat jullie met een grote glimlach en heel veel nieuwe ervaringen naar huis vliegen!",
+      "intro": "Alles komt tot een einde. Vandaag reizen we naar het vliegveld, en dat gaat op twee manieren, afhankelijk van waarvandaan je vliegt. Kijk bij \"Vertrek laatste dag\" in de Info-tab wie welke route neemt. Ga je via Belize City? We hebben een taxi geregeld van de ferry naar het vliegveld van Belize City. Wil je die taxi mee, neem dan de eerste ferry van 06:30, dan ben je rond 8:00 op het vliegveld. Het ferryticket is de hele dag geldig, dus een latere ferry mag ook, maar dan regel je zelf een taxi. Ga je via Chetumal (Mexico)? Let op: naar Chetumal vaart maar één boot per dag, om 07:00 vanaf Caye Caulker (met een immigratiestop in San Pedro rond 08:30, aankomst Chetumal rond 10:30). Die boot van 07:00 moeten jullie dus halen; een latere boot is er die dag niet. Check sowieso je eigen vluchttijden nog een keer en check online in. We hopen dat jullie met een grote glimlach en heel veel mooie herinneringen naar huis vliegen!",
       "transport": [
         {
           "dep": "06:30",

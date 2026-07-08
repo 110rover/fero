@@ -50,9 +50,9 @@ Iris Brouwer · Roos Burkens · Pien Goselink · Willemijn Jansen · Valentine K
 ## Dagprogramma
 
 ### Dag 1 · Maandag 20 juli · Antigua · Aankomst in Guatemala
-**Intro:** ¡Bienvenidas a Guatemala! Hopelijk hebben jullie een goede reis gehad. Iedereen komt verspreid over de dag aan. Voor iedereen hebben we vervoer geregeld naar ons hostel in Antigua. Als jullie de aankomsthal uit lopen, houd dan rechts aan (uitgang bij café Baretto): daar staat een chauffeur met een Fero/Lustrumfiesta-bordje. Zien jullie de bus niet meteen? Dan rijdt die even een rondje, want lang stilstaan mag daar niet. Weiger mannen die jullie bagage "willen helpen" dragen, ze vragen er geld voor. Vanavond is er geen diner geregeld, dus eet iets op het vliegveld of onderweg. Hieronder staan de heenvluchten en in welke groepjes jullie naar Antigua reizen.
+**Intro:** ¡Bienvenidas a Guatemala! Hopelijk hebben jullie een goede reis gehad. Iedereen komt verspreid over de dag aan. Voor iedereen hebben we vervoer geregeld naar ons hostel in Antigua. Als jullie de aankomsthal uit lopen, houd dan rechts aan (uitgang bij café Baretto): daar staat een chauffeur met een Fero/Lustrumfiesta-bordje. Zien jullie de bus niet meteen? Dan rijdt die even een rondje, want lang stilstaan mag daar niet. Weiger mannen die jullie bagage "willen helpen" dragen, ze vragen er geld voor. Vanavond is er geen diner geregeld, dus eet iets op het vliegveld, onderweg of in Antigua. Hieronder staan de heenvluchten en in welke groepjes jullie naar Antigua reizen.
 
-- **Aankomst:** CM102 · 09:33 · vervoer: taxi (anders Uber) · Maxime; Willemijn
+- **Aankomst:** CM102 · 09:33 · vervoer: taxi · Maxime; Willemijn
 - **Aankomst:** IB0221 · 15:55 · vervoer: busje (met biertjes) · Frederique; Hannah; Fieke; Evalie; Lauren; Roos; Pien
 - **Aankomst:** UA1902 · 18:49 · vervoer: private driver · Emma; Klaartje; Jade; Iris
 - **Aankomst:** UA1523 · 20:30 · vervoer: taxi 4 pers. (met UA1551) · Fabienne
@@ -64,7 +64,7 @@ Iris Brouwer · Roos Burkens · Pien Goselink · Willemijn Jansen · Valentine K
 ### Dag 2 · Dinsdag 21 juli · Antigua · City tour & kookles
 **Intro:** Hoe is de jetlag? We beginnen met een gezamenlijk ontbijt, en er is iemand jarig, hoera! Daarna doen we een city tour door het kleurrijke koloniale Antigua. 's Middags leren we tijdens een kookles traditionele Guatemalteekse gerechten maken (tortilla's en Pepián); dat is meteen ons avondeten. Antigua ligt op 1500 meter, dus de zon is fel: neem een pet, zonnebril en zonnebrand mee. Tussen de city tour (klaar rond 13:00) en de kookles (start 15:45) hebben we vrije tijd, en dat is meteen het enige echt vrije moment in Antigua. Gebruik het slim: pin Quetzales (vraag de gids tijdens de tour naar een goede pinautomaat) en sla wat snacks en drankjes in voor onderweg de komende dagen. Na de kookles vieren we 's avonds Jade's verjaardag met cocktails bij Ulew Cocktail Bar (om de hoek bij het hostel, 3 Poniente).
 **Feest:** Jade is jarig 🎉
-**Voorstel:** Samen lunchen? Wij stellen voor om direct na de city tour te gaan lunchen bij Café Bohème. Ga gezellig mee, of doe lekker jullie eigen ding, allebei prima. Dit is wel het enige vrije moment in Antigua, dus deel het bewust in.
+**Voorstel:** Samen lunchen? Wij stellen voor om direct na de city tour te gaan lunchen bij Café Bohème. Ga gezellig mee, of doe lekker jullie eigen ding, allebei prima.
 **Tip:** Pak vanavond alvast de twee tassen voor de vulkaan van morgen: één tas die met jullie de berg op gaat, en één tas die onderaan de vulkaan in de opslag blijft. Regel dit vanavond, zodat alles morgen vóór vertrek al klaar is en we het niet ter plekke bij de vulkaan hoeven uit te zoeken.
 - **Activiteit:** 10:00 · City Tour · duur: 3 uur · ophalen: Ojala Hotel · meenemen: Water; Cash; Fanny pack; Zonnebril & pet/hoed; Zonnebrand
 - **Activiteit:** 15:45 · Kookles · duur: 4 uur · ophalen: Ojala Hotel · meenemen: Water; Comfortabele schoenen
@@ -86,12 +86,12 @@ Iris Brouwer · Roos Burkens · Pien Goselink · Willemijn Jansen · Valentine K
 - **Maaltijden:** Ontbijt/–/–
 
 ### Dag 5 · Vrijdag 24 juli · Atitlán · Chill-dag aan het meer
-**Intro:** Genoeg gezien en gedaan: tijd om te ontspannen bij onze heerlijk chille accommodatie aan Lago Atitlán. Zonnen, een verfrissende duik en gewoon even helemaal niks. Ook een mooie dag om met de hele groep een groepsfoto te maken.
+**Intro:** Genoeg gezien en gedaan: tijd om te ontspannen bij onze heerlijk chille accommodatie aan Lago Atitlán. Zonnen, een verfrissende duik en gewoon even helemaal niks. Ook een mooie dag om met de hele club een groepsfoto te maken.
 - **Verblijf:** Villa Lisa
 - **Maaltijden:** –/–/–
 
 ### Dag 6 · Zaterdag 25 juli · Atitlán · Boottocht langs de dorpjes
-**Intro:** Tijd om de prachtige omgeving van Lago Atitlán te verkennen. De gids haalt ons met een privéboot op bij de steiger en vaart met ons langs de dorpjes rond het meer (San Juan, Santiago, San Marcos, San Pedro en meer). Overleg samen met de gids wat jullie het leukst lijkt; willen jullie je van tevoren verdiepen in de dorpjes, kijk dan vast hier (https://www.reisjunk.nl/guatemala/lake-atitlan/). Een klifsprong kan voor ±Q25.
+**Intro:** Tijd om de prachtige omgeving van Lago Atitlán te verkennen. De gids haalt ons met een privéboot op bij de steiger en vaart met ons langs de dorpjes rond het meer (San Juan, Santiago, San Marcos, San Pedro en meer). We overleggen samen met de gids wat ons het leukst lijkt; willen jullie je van tevoren verdiepen in de dorpjes, kijk dan vast hier (https://www.reisjunk.nl/guatemala/lake-atitlan/). Een klifsprong kan voor ±Q25.
 - **Activiteit:** 09:30 · Boottocht dorpjes · duur: 6 uur · ophalen: Villa's dock · meenemen: Zonnebril; Hoed/pet; Cash; Zwemkleding & handdoek
 - **Verblijf:** Villa Lisa
 - **Maaltijden:** –/–/–
@@ -109,8 +109,8 @@ Iris Brouwer · Roos Burkens · Pien Goselink · Willemijn Jansen · Valentine K
 - **Maaltijden:** Ontbijt/–/–
 
 ### Dag 9 · Dinsdag 28 juli · Semuc Champey · Vrije dag bij de jungle-pool
-**Intro:** Een toffe hostel met een fijne vibe en een heerlijk zwembad met jungle-uitzicht. Als het weer meezit, heeft de ActiviteitenCO tubing op de Lanquín-rivier geregeld: drijven met een biertje, twee stops voor spelletjes en lunch, en aan het eind een sprong van de brug. We gaan heen via de Grutas de Lanquín en terug naar de lodge in een jungle-Unimog. De tijden horen we pas bij aankomst (zaterdag of zondag). Geen tubing? Dan hebben we een vrije dag bij de pool.
-- **Activiteit:** n.t.b. · Tubing Lanquín-rivier (als het weer het toelaat) · ophalen: Zephyr Lodge · meenemen: Water; Zonnebrand; Geen schoenen
+**Intro:** Een toffe hostel met een fijne vibe en een heerlijk zwembad met jungle-uitzicht. De ActiviteitenCO heeft voor vandaag iets voor ons geregeld, als het weer meezit, maar wát het is blijft nog even een verrassing. De tijden horen we pas bij aankomst (zaterdag of zondag). Gaat het niet door? Dan hebben we een heerlijke vrije dag bij de pool.
+- **Activiteit:** n.t.b. · Verrassing van de ActiviteitenCO (als het weer meezit) · ophalen: Zephyr Lodge · meenemen: Water; Zonnebrand
 - **Verblijf:** Zephyr Lodge
 - **Maaltijden:** Ontbijt/–/–
 
@@ -128,6 +128,7 @@ Iris Brouwer · Roos Burkens · Pien Goselink · Willemijn Jansen · Valentine K
 
 ### Dag 12 · Vrijdag 31 juli · Onbewoond eiland · Naar Belize + overnight sailing
 **Intro:** Adiós Guatemala, hola Belize! Vandaag beginnen we aan een overnight sailing trip: we zeilen over helder blauw water en kamperen op een onbewoond eiland. We vertrekken om 08:00 vanaf El Sombrero, dus zorg dat jullie bagage ruim op tijd klaarstaat. Na de grens wisselen we van voertuig; in Belize City stappen we tussen 11:00 en 12:00 op de boot. Alle bagage gaat mee aan boord. Verwacht geen luxe: het is Robinson-Crusoe-stijl, met basic tentjes op het strand. Zorg dat jullie genoeg drinken en snacks bij je hebben voor op het eiland.
+**Tip:** Alle bagage gaat mee op de boot, maar houd de spullen die jullie op het eiland nodig hebben (zwemkleding, een warme laag voor de nacht, toiletspullen, snacks) apart in een klein tasje. Dan hoeven jullie op het eiland niet je hele koffer open te trekken.
 - **Transport:** 08:00 · Yaxhá → Grens Guate–Belize · duur: 1 uur · ophalen: El Sombrero
 - **Transport:** 09:00 · Grens → Belize City · duur: 2,5 uur · meenemen: (grensproces niet meegerekend)
 - **Activiteit:** 11:00 · Overnight sailing trip · duur: tot dag 13 · ophalen: San Pedro Belize Express Water Taxi · meenemen: Alle bagage gaat mee op de boot; Extra snacks & drank voor op het eiland; Zonnebrand; Zwemkleding
@@ -146,12 +147,12 @@ Iris Brouwer · Roos Burkens · Pien Goselink · Willemijn Jansen · Valentine K
 - **Maaltijden:** –/–/–
 
 ### Dag 15 · Maandag 3 augustus · Caye Caulker · Vrije dag op het eiland
-**Intro:** Een fijne, vrije dag. We dompelen ons onder in het tranquilo, relaxte Caribische eilandleven. Buena onda! 's Avonds sluiten we de reis af met een gezamenlijk goodbye-diner (locatie volgt nog; we rekenen zelf af).
+**Intro:** Een fijne, vrije dag. We dompelen ons onder in het tranquilo, relaxte Caribische eilandleven. Buena onda! 's Avonds sluiten we de reis af met een gezamenlijk goodbye-diner (locatie volgt nog).
 - **Verblijf:** Iguana Reef Inn
 - **Maaltijden:** –/–/–
 
 ### Dag 16 · Dinsdag 4 augustus · Naar huis · Fly home
-**Intro:** Alles komt tot een einde. Vandaag reizen we naar het vliegveld, en dat gaat op twee manieren, afhankelijk van waarvandaan je vliegt. Kijk bij "Vertrek laatste dag" in de Info-tab wie welke route neemt. Ga je via Belize City? We hebben een taxi geregeld van de ferry naar het vliegveld van Belize City. Wil je die taxi mee, neem dan de eerste ferry van 06:30, dan ben je rond 8:00 op het vliegveld. Het ferryticket is de hele dag geldig, dus een latere ferry mag ook, maar dan regel je zelf een taxi. Ga je via Chetumal (Mexico)? Let op: naar Chetumal vaart maar één boot per dag, om 07:00 vanaf Caye Caulker (met een immigratiestop in San Pedro rond 08:30, aankomst Chetumal rond 10:30). Die boot van 07:00 moeten jullie dus halen; een latere boot is er die dag niet. Check sowieso je eigen vluchttijden nog een keer en check online in. We hopen dat jullie met een grote glimlach en heel veel nieuwe ervaringen naar huis vliegen!
+**Intro:** Alles komt tot een einde. Vandaag reizen we naar het vliegveld, en dat gaat op twee manieren, afhankelijk van waarvandaan je vliegt. Kijk bij "Vertrek laatste dag" in de Info-tab wie welke route neemt. Ga je via Belize City? We hebben een taxi geregeld van de ferry naar het vliegveld van Belize City. Wil je die taxi mee, neem dan de eerste ferry van 06:30, dan ben je rond 8:00 op het vliegveld. Het ferryticket is de hele dag geldig, dus een latere ferry mag ook, maar dan regel je zelf een taxi. Ga je via Chetumal (Mexico)? Let op: naar Chetumal vaart maar één boot per dag, om 07:00 vanaf Caye Caulker (met een immigratiestop in San Pedro rond 08:30, aankomst Chetumal rond 10:30). Die boot van 07:00 moeten jullie dus halen; een latere boot is er die dag niet. Check sowieso je eigen vluchttijden nog een keer en check online in. We hopen dat jullie met een grote glimlach en heel veel mooie herinneringen naar huis vliegen!
 - **Transport:** 06:30 · Caye Caulker → Belize City · duur: 1 uur · ophalen: San Pedro Belize Express
 - **Transport:** 07:30 · Belize City → Vliegveld · duur: 0,5 uur · ophalen: Ferry Station
 - **Vlucht naar huis:** AA534 · 11:40
