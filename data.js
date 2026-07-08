@@ -1,4 +1,4 @@
-/* AUTO-GEGENEREERD uit content.md door build.mjs — NIET met de hand bewerken.
+/* AUTO-GEGENEREERD uit content.md door build.mjs, NIET met de hand bewerken.
    Bewerk content.md en run: node build.mjs */
 window.TRIP = {
   "meta": {
@@ -162,7 +162,7 @@ window.TRIP = {
         "l": false,
         "d": false
       },
-      "intro": "¡Bienvenidas a Guatemala! Land van actieve vulkanen, koloniale stadjes en Maya-tempels. Verlaat het gebouw en ga naar rechts (uitgang bij café Baretto): daar staat een chauffeur met een Fero/Lustrumfiesta-bordje. Zie je de bus niet meteen? Dan rijdt die even een rondje van de politie — gewoon wachten. Weiger mannen die je bagage \"willen helpen\" dragen — ze vragen er geld voor. Je krijgt twee SIM-kaarten met data; stop er één direct in en open WhatsApp. Vanavond is er geen diner geregeld, dus eet iets op het vliegveld of onderweg.",
+      "intro": "¡Bienvenidas a Guatemala! Hopelijk hebben jullie een goede reis gehad! Iedereeen arrivieert verspreid over de dag. Voor iedereen hebben we vervoer geregeld naar ons Hostel in Antigua. Deze staan op jullie te wachten als je het vliegveld verlaat naar rechts (uitgang bij café Baretto): daar staat een chauffeur met een Fero/Lustrumfiesta-bordje. Zie je de bus niet meteen? Dan rijdt die even een rondje omdat ze niet te lang stil mogen staan. Weiger mannen die je bagage \"willen helpen\" dragen, ze vragen er geld voor. Vanavond is er geen diner geregeld, dus eet iets op het vliegveld of onderweg. Zie het overzicht van de heenvluchten en de groepjes waarin je naar Antigua reist.",
       "arrivals": [
         {
           "code": "CM102",
@@ -217,7 +217,7 @@ window.TRIP = {
           "transport": "taxi 4 pers."
         }
       ],
-      "arrivalNote": "Valentine is er al een paar dagen eerder. Fabienne sluit aan bij Maria, Valerie en Sterre voor een taxi met z'n vieren. Lustrumfiesta deelt nog alle chauffeursinformatie.",
+      "arrivalNote": "Valentine is er al een paar dagen eerder. Fabienne sluit aan bij Maria, Valerie en Sterre voor een taxi met z'n vieren. Lustrumfiesta deelt nog alle chauffeursinformatie, die ontvangen jullie op de WhatsApp, dus handig om meteen bereikbaar te zijn als je land.",
       "acc": {
         "name": "Ojala Hotel",
         "map": "Ojala Hotel, Antigua Guatemala"
@@ -235,7 +235,14 @@ window.TRIP = {
         "l": false,
         "d": true
       },
-      "intro": "Hoe is de jetlag? We trappen af met een gezamenlijk ontbijt. Daarna verkennen we het kleurrijke koloniale Antigua bij daglicht, en 's middags leren we traditionele Guatemalteekse gerechten maken (tortilla's en Pepián) die we zelf opeten. Antigua ligt op 1500 m, dus de zon kan flink zijn. Pin vandaag je Quetzals — vraag de gids tijdens de city tour naar een goede ATM. Houd de lunch licht: je kookt 's middags voor het avondeten. Na de kookles vieren we Jade's verjaardag met cocktails bij Ulew Cocktail Bar (om de hoek, 3 Poniente).",
+      "intro": "Hoe is de jetlag? We beginnen met een gezamenlijk ontbijt, en er is iemand jarig, hoera! Daarna doen we een city tour door het kleurrijke koloniale Antigua. 's Middags leren we tijdens een kookles traditionele Guatemalteekse gerechten maken (tortilla's en Pepián); dat is meteen ons avondeten. Antigua ligt op 1500 m, dus de zon is fel: pet, zonnebril en zonnebrand mee. Tussen de city tour (klaar rond 13:00) en de kookles (start 15:45) heb je vrije tijd, en dit is meteen je enige echt vrije moment in Antigua. Gebruik het slim: pin je Quetzals (vraag de gids tijdens de tour naar een goede pinautomaat) en sla wat snacks en drankjes in voor onderweg de komende dagen. Na de kookles vieren we 's avonds Jade's verjaardag met cocktails bij Ulew Cocktail Bar (om de hoek bij het hostel, 3 Poniente).",
+      "festive": "Jade is jarig 🎉",
+      "proposals": [
+        "Samen lunchen? Wij stellen voor om direct na de city tour te gaan lunchen bij Café Bohème. Ga gezellig mee, of doe je eigen ding; allebei prima. Dit is wel je enige vrije tijd in Antigua, dus plan hem bewust."
+      ],
+      "tips": [
+        "Pak vanavond alvast je twee tassen voor de vulkaan van morgen: één tas die je meeneemt de berg op, en één tas die je onderaan de vulkaan in de opslag achterlaat. Regel dit vanavond, zodat je het morgen vóór vertrek al klaar hebt en niet ter plekke bij de vulkaan hoeft uit te zoeken."
+      ],
       "activity": [
         {
           "dep": "10:00",
@@ -280,7 +287,7 @@ window.TRIP = {
         "l": true,
         "d": true
       },
-      "intro": "Vulkaandag! Er is geen plek op aarde zoals Acatenango (3.976 m), naast de superactieve Volcán Fuego. We slapen in een cozy cabaña met uitzicht op de vuurspuwende Fuego. Check uit je accommodatie; spullen die je niet meeneemt kun je in de opslag van de operator laten aan de voet van de Acatenango. Warme kleding, headlamp, regenponcho, maaltijden en water krijg je van de operator. Schoenen hoeven geen bergschoenen te zijn — goede grip is wat telt. Beslis uiterlijk 18 juli of je een porter (Q250) en/of rugzak (Q60) wilt huren; wandelstokken (Q50) huur je ter plekke.",
+      "intro": "Vulkaandag! Er is geen plek op aarde zoals Acatenango (3.976 m), naast de superactieve Volcán Fuego. We slapen in een cozy cabaña met uitzicht op de vuurspuwende Fuego. Check uit je accommodatie in Antigua. Spullen die je niet meeneemt kun je in de opslag van de operator laten aan de voet van de Acatenango, zorg ervoor dat je voordat we de bus instappen al je je spullen die je mee de vulkaan op neemt klaar hebt en de tas die je achter laat. Warme kleding, headlamp, regenponcho, maaltijden en water krijg je van de operator. Schoenen hoeven geen bergschoenen te zijn, goede grip is belangrijk. Beslis uiterlijk 18 juli of je een porter (Q250) en/of rugzak (Q60) wilt huren; wandelstokken (Q50) huur je ter plekke.",
       "activity": [
         {
           "dep": "08:30",
@@ -316,7 +323,7 @@ window.TRIP = {
         "l": false,
         "d": false
       },
-      "intro": "Moe maar voldaan komen we rond 12u van de vulkaan. Tijd om naar Lago Atitlán te rijden, een van de mooiste meren ter wereld. Onderweg stoppen we bij de supermarkt — daar doen we met z'n allen boodschappen voor de villa (en meteen voor de lange busrit van dag 7). Vanaf de hoofdweg brengen 4x4's ons en de bagage naar de villa. Villa Lisa heeft een keuken (met kookhulp!), zwembad, jacuzzi, BBQ en fire pit — één avond barbecueën met marshmallows staat op het lijstje.",
+      "intro": "Moe maar voldaan komen we rond 12u van de vulkaan. Tijd om naar Lago Atitlán te rijden, een van de mooiste meren ter wereld. Onderweg stoppen we bij de supermarkt, daar doen we met z'n allen boodschappen voor de villa (en meteen voor de lange busrit van dag 7). Van Vonk en mij ontvangen jullie in groepjes de boodschappenlijstjes voor de gezamelijke boodschappen. Vanaf de hoofdweg brengen 4x4's ons en de bagage naar de villa. Villa Lisa heeft een keuken (met kookhulp!), zwembad, jacuzzi, BBQ en fire pit, één avond barbecueën met marshmallows staat op het lijstje.",
       "transport": [
         {
           "dep": "11:00",
@@ -325,7 +332,7 @@ window.TRIP = {
           "dur": "3 uur",
           "pickup": "La Soledad, Acatenango",
           "bring": [
-            "Biertje + snack voor onderweg"
+            "snack voor onderweg"
           ],
           "map": "La Soledad, Acatenango, Guatemala"
         }
@@ -350,7 +357,7 @@ window.TRIP = {
         "l": false,
         "d": false
       },
-      "intro": "Genoeg gezien en gedaan — tijd om te ontspannen bij onze super chille accommodatie aan Lago Atitlán. Zonnen, een verfrissende duik en gewoon even helemaal niks. Heerlijk. Mooie dag om met de hele groep een groepsfoto te maken.",
+      "intro": "Genoeg gezien en gedaan, tijd om te ontspannen bij onze super chille accommodatie aan Lago Atitlán. Zonnen, een verfrissende duik en gewoon even helemaal niks. Heerlijk. Mooie dag om met de hele groep een groepsfoto te maken ;).",
       "acc": {
         "name": "Villa Lisa",
         "coords": [
@@ -371,7 +378,7 @@ window.TRIP = {
         "l": false,
         "d": false
       },
-      "intro": "Tijd om de prachtige omgeving van Lago Atitlán te verkennen. De gids haalt ons met een privéboot op bij de steiger. Elk dorpje heeft zijn eigen identiteit: San Juan, Santiago, San Marcos & San Pedro. Overleg met de gids wat jullie het coolst lijkt. Klifsprong kan voor ±Q25.",
+      "intro": "Tijd om de prachtige omgeving van Lago Atitlán te verkennen. De gids haalt ons met een privéboot op bij de steiger. Met de boot gaan we langs verschillende dorpjes die aan het meer liggen (San Juan, Santiago, San Marcos, San Pedro, etc.). Overleg met de gids wat jullie het coolst lijkt, dus mocht je van te voren je willen verdiepen in de verschillende dorpjes doe dat vooral (https://www.reisjunk.nl/guatemala/lake-atitlan/)! Klifsprong kan voor ±Q25.",
       "activity": [
         {
           "dep": "09:30",
@@ -407,7 +414,7 @@ window.TRIP = {
         "l": false,
         "d": false
       },
-      "intro": "Vandaag een reisdag: diep de Guatemalteekse jungle in. De chauffeur brengt ons naar het meeting point in Lanquín, waar het hotel met 4x4's het laatste stuk rijdt. Lange rit — houd je stops kort en neem genoeg eten & drinken mee.",
+      "intro": "Vandaag is een reisdag: diep de Guatemalteekse jungle in. De chauffeur brengt ons naar het meeting point in Lanquín, waar het hotel met 4x4's het laatste stuk rijdt. Lange rit, houd je stops kort en neem genoeg eten & drinken mee. Bestel bij aankomst het ontbijt voor de volgende dag!",
       "transport": [
         {
           "dep": "07:00",
@@ -441,7 +448,7 @@ window.TRIP = {
         "l": false,
         "d": false
       },
-      "intro": "Semuc Champey betekent \"waar de rivier zich verstopt\". We starten bij de grotten van Kan'ba — lopen, klimmen en zwemmen met een kaars in je hand. Daarna Semuc Champey zelf: turquoise natuurzwembaden en een mirador. Bestel je ontbijt de avond ervoor. Maaltijden zijn niet inbegrepen; 's avonds eten we gezamenlijk in de lodge (aangeraden — buiten de lodge is het eten minder goed).",
+      "intro": "Semuc Champey betekent \"waar de rivier zich verstopt\". We starten bij de grotten van Kan'ba, lopen, klimmen en zwemmen met een kaars in je hand. Daarna Semuc Champey zelf: turquoise natuurzwembaden en een mirador. Maaltijden zijn niet inbegrepen; 's avonds eten we gezamenlijk in de lodge (aangeraden, want buiten de lodge is het eten minder goed).",
       "activity": [
         {
           "dep": "09:00",
@@ -578,7 +585,7 @@ window.TRIP = {
         "l": true,
         "d": true
       },
-      "intro": "Adiós Guatemala, hola Belize! We beginnen met een overnight sailing trip: zeilen over helder blauw water en kamperen op een eiland. Sta klaar om 07:00. Na de grens en het wisselen van voertuig word je bij de ferry in Belize City afgezet, tussen 11:00 en 12:00 aan boord. Neem al je bagage mee op de boot. Geen luxe — Robinson-Crusoe-stijl: basic tentjes op het strand. Koop alcohol & snacks vóór de grens.",
+      "intro": "Adiós Guatemala, hola Belize! Vandaag beginnen we aan een overnight sailing trip: we zeilen over helder blauw water en kamperen op een onbewoond eiland. We vertrekken om 08:00 vanaf El Sombrero, dus zorg dat je bagage ruim op tijd klaarstaat. Na de grens wisselen we van voertuig; in Belize City stap je tussen 11:00 en 12:00 op de boot. Al je bagage gaat mee op de boot. Verwacht geen luxe: het is Robinson-Crusoe-stijl, met basic tentjes op het strand. Zorg dat je genoeg drinken en snacks bij je hebt voor op het eiland.",
       "transport": [
         {
           "dep": "08:00",
@@ -605,7 +612,7 @@ window.TRIP = {
           "pickup": "San Pedro Belize Express Water Taxi",
           "bring": [
             "Alle bagage gaat mee op de boot",
-            "Extra snacks & drank (vóór de grens kopen)",
+            "Extra snacks & drank voor op het eiland",
             "Zonnebrand",
             "Zwemkleding"
           ],
@@ -629,7 +636,7 @@ window.TRIP = {
         "l": false,
         "d": false
       },
-      "intro": "Je wordt wakker op het strand, ontbijt, en we zeilen verder. De kapitein zet ons af bij Caye Caulker — minder dan 5 min lopen naar de accommodatie. Een paar heerlijke, relaxte dagen: werken aan dat kleurtje, een duik nemen of gaan duiken. Buena onda!",
+      "intro": "Je wordt wakker op het strand, ontbijt, en we zeilen verder. De kapitein zet ons af bij Caye Caulker, minder dan 5 min lopen naar de accommodatie. Een paar heerlijke, relaxte dagen: werken aan dat kleurtje, een duik nemen of gaan duiken. Buena onda!",
       "acc": {
         "name": "Iguana Reef Inn",
         "map": "Iguana Reef Inn, Caye Caulker, Belize"
@@ -647,11 +654,11 @@ window.TRIP = {
         "l": false,
         "d": false
       },
-      "intro": "Het motto is \"Go Slow\", dus een vrije ochtend. Klaar voor de highlight? Sunday Funday is een lokale institutie: feesten op het dek van een catamaran. We gaan met de groep — geboekt! Deuren 14:00, boot 16:30, terug na zonsondergang. Tropische beats, onbeperkt rum-punch, zwemmen bij The Split en de beste Go-Slow-vibes. Kosten $60 per persoon.",
+      "intro": "Het motto op Caye Caulker is \"Go Slow\", dus je hebt een vrije ochtend. 's Middags gaan we met de hele groep naar Sunday Funday: een boottocht op een catamaran met muziek, rum-punch en zwemmen bij The Split (het populaire strandje aan het noordelijke puntje van het eiland). Je verzamelt om 14:00, de boot vertrekt om 16:30 en we zijn na zonsondergang weer terug. Neem zwemkleding, zonnebrand en wat cash mee.",
       "activity": [
         {
           "dep": "14:00",
-          "name": "Sunday Funday (geboekt, $60 p.p.)",
+          "name": "Sunday Funday",
           "dur": "tot na zonsondergang",
           "multiday": true,
           "pickup": "Caye Caulker",
@@ -680,7 +687,7 @@ window.TRIP = {
         "l": false,
         "d": false
       },
-      "intro": "Een fijne, vrije dag. Onderdompel je in het tranquilo, relaxte Caribische eilandleven. Buena onda! Lazy Lizard overdag, de Sports Bar 's avonds is altijd een goed idee. 's Avonds sluiten we de reis af met een gezamenlijk goodbye-diner (locatie volgt nog; zelf afrekenen).",
+      "intro": "Een fijne, vrije dag. Onderdompel je in het tranquilo, relaxte Caribische eilandleven. Buena onda! 's Avonds sluiten we de reis af met een gezamenlijk goodbye-diner (locatie volgt nog; zelf afrekenen).",
       "acc": {
         "name": "Iguana Reef Inn",
         "map": "Iguana Reef Inn, Caye Caulker, Belize"
@@ -698,7 +705,7 @@ window.TRIP = {
         "l": false,
         "d": false
       },
-      "intro": "Oh oh, alles komt tot een einde. We nemen de eerste ferry van 06:30 om rond 8:00 op het vliegveld te zijn; vanaf de ferry brengt een taxi je naar het vliegveld. Let op: dit schema geldt voor wie om 8:00 op het vliegveld wil zijn (waarschijnlijk Evalie, Lauren, Maria, Sterre en Valerie). Vertrek je later? Dan regel je je eigen ferry + taxi (op eigen kosten). Check je vluchttijden nog een keer en check vooraf in. We hopen dat je met een grote glimlach en veel nieuwe ervaringen naar huis vliegt!",
+      "intro": "Alles komt tot een einde. Vandaag reis je naar het vliegveld, en dat gaat op twee manieren, afhankelijk van waarvandaan je vliegt. Kijk bij \"Vertrek laatste dag\" in de Info-tab wie welke route neemt. Vlieg je vanuit Belize City? Wij hebben een taxi geregeld van de ferry naar het vliegveld van Belize City. Wil je die taxi mee, neem dan de eerste ferry van 06:30, dan ben je rond 8:00 op het vliegveld. Je ferryticket is de hele dag geldig, dus een latere ferry mag ook, maar dan regel je zelf een taxi naar het vliegveld. Vlieg je via Chetumal (Mexico)? Let op: naar Chetumal vaart maar één boot per dag, om 07:00 vanaf Caye Caulker (met een immigratiestop in San Pedro rond 08:30, aankomst Chetumal rond 10:30). Die boot van 07:00 moet je dus halen; er is geen latere boot dezelfde dag. Check sowieso je eigen vluchttijden nog een keer en check online in. We hopen dat je met een grote glimlach en veel nieuwe ervaringen naar huis vliegt!",
       "transport": [
         {
           "dep": "06:30",
@@ -798,7 +805,7 @@ window.TRIP = {
     "Semuc Champey": [
       {
         "name": "Tubing",
-        "desc": "Drijven in een band met een biertje in je hand over de rivier — een echte klassieker."
+        "desc": "Drijven in een band met een biertje in je hand over de rivier, een echte klassieker."
       },
       {
         "name": "Lodge chillen",
@@ -846,15 +853,15 @@ window.TRIP = {
     "spaans": {
       "title": "Sí, hablo español",
       "items": [
-        "No hablo español — Ik spreek geen Spaans",
-        "¿Dónde está el baño? — Waar is de wc?",
-        "¿Cuánto cuesta? — Hoeveel kost het?",
-        "Dos cervezas por favor — Twee biertjes, alsjeblieft",
-        "La cuenta por favor — De rekening, alsjeblieft",
-        "Tengo resaca — Ik heb een kater",
-        "Buena onda — cool / goede vibe",
-        "A huevos — natuurlijk!",
-        "Pilas — slim / let op"
+        "No hablo español, Ik spreek geen Spaans",
+        "¿Dónde está el baño?, Waar is de wc?",
+        "¿Cuánto cuesta?, Hoeveel kost het?",
+        "Dos cervezas por favor, Twee biertjes, alsjeblieft",
+        "La cuenta por favor, De rekening, alsjeblieft",
+        "Tengo resaca, Ik heb een kater",
+        "Buena onda, cool / goede vibe",
+        "A huevos, natuurlijk!",
+        "Pilas, slim / let op"
       ]
     },
     "gezondheid": {
@@ -885,7 +892,7 @@ window.TRIP = {
     }
   ],
   "acatenango": {
-    "title": "Acatenango — Lava Trails",
+    "title": "Acatenango, Lava Trails",
     "note": "Dit is een algemene gids van Lava Trails. Eén ding wijkt af voor Fero: we gaan ná de vulkaan NIET terug naar Antigua, maar door naar Atitlán (dag 4).",
     "summit": {
       "basecamp": 3550,
@@ -920,7 +927,7 @@ window.TRIP = {
       "Porter één kant (Q250)"
     ],
     "food": [
-      "3 maaltijden (ontbijt, lunch, diner) — vegan & vega mogelijk",
+      "3 maaltijden (ontbijt, lunch, diner), vegan & vega mogelijk",
       "4 L water",
       "Thee of warme chocolademelk",
       "Glas wijn",
@@ -1077,6 +1084,12 @@ window.TRIP = {
       "date": "2026-07-17",
       "time": "19:00",
       "title": "DJRV-formulier invullen voor Guatemala (kan max 72u voor vertrek)"
+    },
+    {
+      "name": "Acatenango-huur beslissen",
+      "date": "2026-07-18",
+      "time": "12:00",
+      "title": "Beslis of je een porter (Q250) en/of rugzak (Q60) huurt voor de vulkaan"
     }
   ],
   "departure": [
@@ -1095,7 +1108,7 @@ window.TRIP = {
         "Maxime",
         "Valentine"
       ],
-      "meta": "07:00 · San Pedro Belize Express · Caye Caulker → Chetumal"
+      "meta": "07:00 (enige boot die dag) · San Pedro Belize Express · Caye Caulker, immigratie in San Pedro ±08:30, aankomst Chetumal ±10:30"
     },
     {
       "title": "Naar Belize City & vliegveld",
@@ -1107,7 +1120,7 @@ window.TRIP = {
         "Valerie",
         "Sterre"
       ],
-      "meta": "06:30 · ferry Caye Caulker → Belize City, daarna taxi"
+      "meta": "eerste ferry 06:30 · taxi naar het vliegveld is geregeld · ticket is de hele dag geldig, latere ferry mag (dan zelf een taxi regelen)"
     },
     {
       "title": "Roos",

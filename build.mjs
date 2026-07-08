@@ -1,9 +1,9 @@
 #!/usr/bin/env node
 /* ============================================================
-   FERO build — zet content.md om naar data.js
+   FERO build, zet content.md om naar data.js
    Gebruik:  node build.mjs
    content.md is de bron die je mag aanpassen. data.js wordt
-   automatisch gegenereerd — NIET met de hand bewerken.
+   automatisch gegenereerd, NIET met de hand bewerken.
    ============================================================ */
 import { readFileSync, writeFileSync } from "node:fs";
 import { fileURLToPath } from "node:url";
@@ -62,7 +62,7 @@ const SPOTS = {
     { name: "Santa Cruz", desc: "Beste uitzicht op de vulkanen. Free Cerveza voor happy hour aan het eind van de dag." },
   ],
   "Semuc Champey": [
-    { name: "Tubing", desc: "Drijven in een band met een biertje in je hand over de rivier — een echte klassieker." },
+    { name: "Tubing", desc: "Drijven in een band met een biertje in je hand over de rivier, een echte klassieker." },
     { name: "Lodge chillen", desc: "Weinig te doen in het dorp; mensen blijven vaak bij de lodge of in het natuurpark." },
   ],
   Yaxhá: [
@@ -76,14 +76,14 @@ const SPOTS = {
   ],
 };
 const ACATENANGO = {
-  title: "Acatenango — Lava Trails",
+  title: "Acatenango, Lava Trails",
   note: "Dit is een algemene gids van Lava Trails. Eén ding wijkt af voor Fero: we gaan ná de vulkaan NIET terug naar Antigua, maar door naar Atitlán (dag 4).",
   summit: { basecamp: 3550, acatenango: 3975, fuego: 3768, soledad: 2424 },
   included: ["Alle hiking-gear", "Alle maaltijden, snacks & water", "Pick-up vanuit Antigua (daarna door naar Atitlán)", "Tweetalige (ENG/SP) gids", "Entreekosten vulkaan (Q100)"],
   provided: ["Jas & trui", "Muts, handschoenen & buff/sjaal", "Headlamp", "Regenponcho"],
   bring: ["Schoenen met grip", "Dry-fit sportkleding", "Broek of legging", "Backpack (te huur)"],
   rent: ["50 L backpack (Q60)", "Trekking poles (Q50)", "Waterproof broek (Q40)", "Sleeping bag liner (Q20)", "Porter één kant (Q250)"],
-  food: ["3 maaltijden (ontbijt, lunch, diner) — vegan & vega mogelijk", "4 L water", "Thee of warme chocolademelk", "Glas wijn", "Biertje bij terugkomst"],
+  food: ["3 maaltijden (ontbijt, lunch, diner), vegan & vega mogelijk", "4 L water", "Thee of warme chocolademelk", "Glas wijn", "Biertje bij terugkomst"],
   fuego: "Optionele sunset-hike op dag 1 naar Fuego Ridge (Q200, EXCLUSIEF). Vertrek ±16:30, ±1u30 heen. Terug bij basecamp ±19:00.",
   schedule: [
     { day: "Dag 1", items: [["08:30", "Pick-up vanuit Antigua"], ["08:30–09:00", "Rit naar de Supply Center"], ["09:00–10:00", "Briefing & gear uitzoeken"], ["10:00–15:00", "Start van de hike! Pauzes & lunch"], ["15:00–16:00", "Aankomst basecamp & rust"], ["16:00–20:00", "Optionele Volcán de Fuego hike (Q200)"], ["20:00", "Diner, marshmallows & chill"]] },
@@ -158,7 +158,7 @@ function meals(s) {
 
 const days = [];
 for (let i = 0; i < lines.length; i++) {
-  const h = lines[i].match(/^### Dag (\d+) — (.+?) — (.+?) — (.+)$/);
+  const h = lines[i].match(/^### Dag (\d+) · (.+?) · (.+?) · (.+)$/);
   if (!h) continue;
   const d = parseInt(h[1], 10);
   const wdDate = h[2].trim().split(/\s+/); // [Weekday, DD, month]
@@ -173,6 +173,9 @@ for (let i = 0; i < lines.length; i++) {
   for (let j = i + 1; j < lines.length && !/^### /.test(lines[j]) && !/^## /.test(lines[j]); j++) {
     const ln = lines[j];
     const intro = bold(ln, "Intro"); if (intro) { day.intro = intro; continue; }
+    const fest = bold(ln, "Feest"); if (fest) { day.festive = fest; continue; }
+    const voorstel = bold(ln, "Voorstel"); if (voorstel) { (day.proposals ||= []).push(voorstel); continue; }
+    const tip = bold(ln, "Tip"); if (tip) { (day.tips ||= []).push(tip); continue; }
     if (/^- \*\*Transport:\*\*/.test(ln)) { (day.transport ||= []).push(parseLeg(ln.replace(/^- \*\*Transport:\*\*\s*/, ""), true)); continue; }
     if (/^- \*\*Activiteit:\*\*/.test(ln)) { (day.activity ||= []).push(parseLeg(ln.replace(/^- \*\*Activiteit:\*\*\s*/, ""), false)); continue; }
     if (/^- \*\*Aankomst:\*\*/.test(ln)) { const p = ln.replace(/^- \*\*Aankomst:\*\*\s*/, "").split("·").map((s) => s.trim()); const arr = { code: p[0], eta: p[1], who: [] }; for (let k = 2; k < p.length; k++) { if (/^vervoer:/.test(p[k])) arr.transport = p[k].replace(/^vervoer:\s*/, "").trim(); else arr.who = p[k].split(";").map((x) => x.trim()).filter(Boolean); } (day.arrivals ||= []).push(arr); continue; }
@@ -246,6 +249,6 @@ const TRIP = {
   stops, days, rooms, spots: SPOTS, practical, contacts, acatenango: ACATENANGO, packing, reminders, departure,
 };
 
-const header = "/* AUTO-GEGENEREERD uit content.md door build.mjs — NIET met de hand bewerken.\n   Bewerk content.md en run: node build.mjs */\n";
+const header = "/* AUTO-GEGENEREERD uit content.md door build.mjs, NIET met de hand bewerken.\n   Bewerk content.md en run: node build.mjs */\n";
 writeFileSync(join(DIR, "data.js"), header + "window.TRIP = " + JSON.stringify(TRIP, null, 2) + ";\n");
 console.log("✓ data.js gegenereerd:", days.length, "dagen,", stops.length, "stops,", names.length, "namen,", contacts.length, "contacten,", rooms.length, "kamers,", packing.reduce((a, g) => a + g.items.length, 0), "paklijst-items,", reminders.length, "herinneringen.");

@@ -1,5 +1,5 @@
 /* Fero companion-app — offline cache */
-var CACHE = "fero-v10";
+var CACHE = "fero-v11";
 var ASSETS = [
   "./",
   "./index.html",

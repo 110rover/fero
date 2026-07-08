@@ -1,7 +1,7 @@
-# Fero · Guatemala & Belize 2026 — reisinhoud (master)
+# Fero · Guatemala & Belize 2026, reisinhoud (master)
 
 > **Dit bestand is de bron.** De app wordt hieruit gebouwd (`node build.mjs` → `data.js`). Jij mag alles checken en aanpassen.
-> Regels die met `CHECK:` beginnen zijn dingen die Rover niet zeker weet — controleer ze even.
+> Regels die met `CHECK:` beginnen zijn dingen die Rover niet zeker weet, controleer ze even.
 > Stem: geschreven door **Frederique & Emma** voor de Feromonen. Tijden zijn een indicatie; WhatsApp is altijd leidend.
 > Na een wijziging: zeg het tegen Rover (of run zelf `node build.mjs` in deze map).
 >
@@ -49,105 +49,109 @@ Iris Brouwer · Roos Burkens · Pien Goselink · Willemijn Jansen · Valentine K
 
 ## Dagprogramma
 
-### Dag 1 — Maandag 20 juli — Antigua — Aankomst in Guatemala
-**Intro:** ¡Bienvenidas a Guatemala! Land van actieve vulkanen, koloniale stadjes en Maya-tempels. Verlaat het gebouw en ga naar rechts (uitgang bij café Baretto): daar staat een chauffeur met een Fero/Lustrumfiesta-bordje. Zie je de bus niet meteen? Dan rijdt die even een rondje van de politie — gewoon wachten. Weiger mannen die je bagage "willen helpen" dragen — ze vragen er geld voor. Je krijgt twee SIM-kaarten met data; stop er één direct in en open WhatsApp. Vanavond is er geen diner geregeld, dus eet iets op het vliegveld of onderweg.
+### Dag 1 · Maandag 20 juli · Antigua · Aankomst in Guatemala
+**Intro:** ¡Bienvenidas a Guatemala! Hopelijk hebben jullie een goede reis gehad! Iedereeen arrivieert verspreid over de dag. Voor iedereen hebben we vervoer geregeld naar ons Hostel in Antigua. Deze staan op jullie te wachten als je het vliegveld verlaat naar rechts (uitgang bij café Baretto): daar staat een chauffeur met een Fero/Lustrumfiesta-bordje. Zie je de bus niet meteen? Dan rijdt die even een rondje omdat ze niet te lang stil mogen staan. Weiger mannen die je bagage "willen helpen" dragen, ze vragen er geld voor. Vanavond is er geen diner geregeld, dus eet iets op het vliegveld of onderweg. Zie het overzicht van de heenvluchten en de groepjes waarin je naar Antigua reist. 
+
 - **Aankomst:** CM102 · 09:33 · vervoer: taxi (anders Uber) · Maxime; Willemijn
 - **Aankomst:** IB0221 · 15:55 · vervoer: busje (met biertjes) · Frederique; Hannah; Fieke; Evalie; Lauren; Roos; Pien
 - **Aankomst:** UA1902 · 18:49 · vervoer: private driver · Emma; Klaartje; Jade; Iris
 - **Aankomst:** UA1523 · 20:30 · vervoer: taxi 4 pers. (met UA1551) · Fabienne
 - **Aankomst:** UA1551 · 21:40 · vervoer: taxi 4 pers. · Maria; Valerie; Sterre
-- **Aankomst-note:** Valentine is er al een paar dagen eerder. Fabienne sluit aan bij Maria, Valerie en Sterre voor een taxi met z'n vieren. Lustrumfiesta deelt nog alle chauffeursinformatie.
+- **Aankomst-note:** Valentine is er al een paar dagen eerder. Fabienne sluit aan bij Maria, Valerie en Sterre voor een taxi met z'n vieren. Lustrumfiesta deelt nog alle chauffeursinformatie, die ontvangen jullie op de WhatsApp, dus handig om meteen bereikbaar te zijn als je land.
 - **Verblijf:** Ojala Hotel
 - **Maaltijden:** –/–/–
 
-### Dag 2 — Dinsdag 21 juli — Antigua — City tour & kookles
-**Intro:** Hoe is de jetlag? We trappen af met een gezamenlijk ontbijt. Daarna verkennen we het kleurrijke koloniale Antigua bij daglicht, en 's middags leren we traditionele Guatemalteekse gerechten maken (tortilla's en Pepián) die we zelf opeten. Antigua ligt op 1500 m, dus de zon kan flink zijn. Pin vandaag je Quetzals — vraag de gids tijdens de city tour naar een goede ATM. Houd de lunch licht: je kookt 's middags voor het avondeten. Na de kookles vieren we Jade's verjaardag met cocktails bij Ulew Cocktail Bar (om de hoek, 3 Poniente).
+### Dag 2 · Dinsdag 21 juli · Antigua · City tour & kookles
+**Intro:** Hoe is de jetlag? We beginnen met een gezamenlijk ontbijt, en er is iemand jarig, hoera! Daarna doen we een city tour door het kleurrijke koloniale Antigua. 's Middags leren we tijdens een kookles traditionele Guatemalteekse gerechten maken (tortilla's en Pepián); dat is meteen ons avondeten. Antigua ligt op 1500 m, dus de zon is fel: pet, zonnebril en zonnebrand mee. Tussen de city tour (klaar rond 13:00) en de kookles (start 15:45) heb je vrije tijd, en dit is meteen je enige echt vrije moment in Antigua. Gebruik het slim: pin je Quetzals (vraag de gids tijdens de tour naar een goede pinautomaat) en sla wat snacks en drankjes in voor onderweg de komende dagen. Na de kookles vieren we 's avonds Jade's verjaardag met cocktails bij Ulew Cocktail Bar (om de hoek bij het hostel, 3 Poniente).
+**Feest:** Jade is jarig 🎉
+**Voorstel:** Samen lunchen? Wij stellen voor om direct na de city tour te gaan lunchen bij Café Bohème. Ga gezellig mee, of doe je eigen ding; allebei prima. Dit is wel je enige vrije tijd in Antigua, dus plan hem bewust.
+**Tip:** Pak vanavond alvast je twee tassen voor de vulkaan van morgen: één tas die je meeneemt de berg op, en één tas die je onderaan de vulkaan in de opslag achterlaat. Regel dit vanavond, zodat je het morgen vóór vertrek al klaar hebt en niet ter plekke bij de vulkaan hoeft uit te zoeken.
 - **Activiteit:** 10:00 · City Tour · duur: 3 uur · ophalen: Ojala Hotel · meenemen: Water; Cash; Fanny pack; Zonnebril & pet/hoed; Zonnebrand
 - **Activiteit:** 15:45 · Kookles · duur: 4 uur · ophalen: Ojala Hotel · meenemen: Water; Comfortabele schoenen
 - **Verblijf:** Ojala Hotel
 - **Maaltijden:** Ontbijt/–/Diner
 
-### Dag 3 — Woensdag 22 juli — Acatenango — Vulkaan beklimmen
-**Intro:** Vulkaandag! Er is geen plek op aarde zoals Acatenango (3.976 m), naast de superactieve Volcán Fuego. We slapen in een cozy cabaña met uitzicht op de vuurspuwende Fuego. Check uit je accommodatie; spullen die je niet meeneemt kun je in de opslag van de operator laten aan de voet van de Acatenango. Warme kleding, headlamp, regenponcho, maaltijden en water krijg je van de operator. Schoenen hoeven geen bergschoenen te zijn — goede grip is wat telt. Beslis uiterlijk 18 juli of je een porter (Q250) en/of rugzak (Q60) wilt huren; wandelstokken (Q50) huur je ter plekke.
+### Dag 3 · Woensdag 22 juli · Acatenango · Vulkaan beklimmen
+**Intro:** Vulkaandag! Er is geen plek op aarde zoals Acatenango (3.976 m), naast de superactieve Volcán Fuego. We slapen in een cozy cabaña met uitzicht op de vuurspuwende Fuego. Check uit je accommodatie in Antigua. Spullen die je niet meeneemt kun je in de opslag van de operator laten aan de voet van de Acatenango, zorg ervoor dat je voordat we de bus instappen al je je spullen die je mee de vulkaan op neemt klaar hebt en de tas die je achter laat. Warme kleding, headlamp, regenponcho, maaltijden en water krijg je van de operator. Schoenen hoeven geen bergschoenen te zijn, goede grip is belangrijk. Beslis uiterlijk 18 juli of je een porter (Q250) en/of rugzak (Q60) wilt huren; wandelstokken (Q50) huur je ter plekke.
 - **Activiteit:** 08:30 · Acatenango hike · duur: 2 dagen / 1 nacht · ophalen: Ojala Hotel · meenemen: Lange broek + extra sokken; Trui; Backpack 35–45 L; Eigen (sterke) drank/snacks; Schoenen met grip
 - **Verblijf:** Acatenango camp (cabañas)
 - **Maaltijden:** Ontbijt/Lunch/Diner
 - **Acatenango-gids:** ja
-> LET OP: we worden opgehaald in Antigua, maar gaan ná de vulkaan dóór naar Atitlán — niet terug naar Antigua.
+> LET OP: we worden opgehaald in Antigua, maar gaan ná de vulkaan dóór naar Atitlán, niet terug naar Antigua, wat in het vulkaan boekje staat.
 
-### Dag 4 — Donderdag 23 juli — Atitlán — Naar Lago Atitlán
-**Intro:** Moe maar voldaan komen we rond 12u van de vulkaan. Tijd om naar Lago Atitlán te rijden, een van de mooiste meren ter wereld. Onderweg stoppen we bij de supermarkt — daar doen we met z'n allen boodschappen voor de villa (en meteen voor de lange busrit van dag 7). Vanaf de hoofdweg brengen 4x4's ons en de bagage naar de villa. Villa Lisa heeft een keuken (met kookhulp!), zwembad, jacuzzi, BBQ en fire pit — één avond barbecueën met marshmallows staat op het lijstje.
-- **Transport:** 11:00 · Basecamp Acatenango → Atitlán (Villa Lisa) · duur: 3 uur · ophalen: La Soledad, Acatenango · meenemen: Biertje + snack voor onderweg
+### Dag 4 · Donderdag 23 juli · Atitlán · Naar Lago Atitlán
+**Intro:** Moe maar voldaan komen we rond 12u van de vulkaan. Tijd om naar Lago Atitlán te rijden, een van de mooiste meren ter wereld. Onderweg stoppen we bij de supermarkt, daar doen we met z'n allen boodschappen voor de villa (en meteen voor de lange busrit van dag 7). Van Vonk en mij ontvangen jullie in groepjes de boodschappenlijstjes voor de gezamelijke boodschappen. Vanaf de hoofdweg brengen 4x4's ons en de bagage naar de villa. Villa Lisa heeft een keuken (met kookhulp!), zwembad, jacuzzi, BBQ en fire pit, één avond barbecueën met marshmallows staat op het lijstje.
+- **Transport:** 11:00 · Basecamp Acatenango → Atitlán (Villa Lisa) · duur: 3 uur · ophalen: La Soledad, Acatenango · meenemen: snack voor onderweg
 - **Verblijf:** Villa Lisa
 - **Maaltijden:** Ontbijt/–/–
 
-### Dag 5 — Vrijdag 24 juli — Atitlán — Chill-dag aan het meer
-**Intro:** Genoeg gezien en gedaan — tijd om te ontspannen bij onze super chille accommodatie aan Lago Atitlán. Zonnen, een verfrissende duik en gewoon even helemaal niks. Heerlijk. Mooie dag om met de hele groep een groepsfoto te maken.
+### Dag 5 · Vrijdag 24 juli · Atitlán · Chill-dag aan het meer
+**Intro:** Genoeg gezien en gedaan, tijd om te ontspannen bij onze super chille accommodatie aan Lago Atitlán. Zonnen, een verfrissende duik en gewoon even helemaal niks. Heerlijk. Mooie dag om met de hele groep een groepsfoto te maken ;).
 - **Verblijf:** Villa Lisa
 - **Maaltijden:** –/–/–
 
-### Dag 6 — Zaterdag 25 juli — Atitlán — Boottocht langs de dorpjes
-**Intro:** Tijd om de prachtige omgeving van Lago Atitlán te verkennen. De gids haalt ons met een privéboot op bij de steiger. Elk dorpje heeft zijn eigen identiteit: San Juan, Santiago, San Marcos & San Pedro. Overleg met de gids wat jullie het coolst lijkt. Klifsprong kan voor ±Q25.
+### Dag 6 · Zaterdag 25 juli · Atitlán · Boottocht langs de dorpjes
+**Intro:** Tijd om de prachtige omgeving van Lago Atitlán te verkennen. De gids haalt ons met een privéboot op bij de steiger. Met de boot gaan we langs verschillende dorpjes die aan het meer liggen (San Juan, Santiago, San Marcos, San Pedro, etc.). Overleg met de gids wat jullie het coolst lijkt, dus mocht je van te voren je willen verdiepen in de verschillende dorpjes doe dat vooral (https://www.reisjunk.nl/guatemala/lake-atitlan/)! Klifsprong kan voor ±Q25.
 - **Activiteit:** 09:30 · Boottocht dorpjes · duur: 6 uur · ophalen: Villa's dock · meenemen: Zonnebril; Hoed/pet; Cash; Zwemkleding & handdoek
 - **Verblijf:** Villa Lisa
 - **Maaltijden:** –/–/–
 
-### Dag 7 — Zondag 26 juli — Semuc Champey — Reisdag naar de jungle
-**Intro:** Vandaag een reisdag: diep de Guatemalteekse jungle in. De chauffeur brengt ons naar het meeting point in Lanquín, waar het hotel met 4x4's het laatste stuk rijdt. Lange rit — houd je stops kort en neem genoeg eten & drinken mee.
+### Dag 7 · Zondag 26 juli · Semuc Champey · Reisdag naar de jungle
+**Intro:** Vandaag is een reisdag: diep de Guatemalteekse jungle in. De chauffeur brengt ons naar het meeting point in Lanquín, waar het hotel met 4x4's het laatste stuk rijdt. Lange rit, houd je stops kort en neem genoeg eten & drinken mee. Bestel bij aankomst het ontbijt voor de volgende dag! 
 - **Transport:** 07:00 · Atitlán → Lanquín (Zephyr Lodge) · duur: 11 uur · ophalen: Villa Lisa · meenemen: Genoeg eten & drinken voor de rit
 - **Verblijf:** Zephyr Lodge
 - **Maaltijden:** Ontbijt/–/–
 
-### Dag 8 — Maandag 27 juli — Semuc Champey — Full Semuc tour
-**Intro:** Semuc Champey betekent "waar de rivier zich verstopt". We starten bij de grotten van Kan'ba — lopen, klimmen en zwemmen met een kaars in je hand. Daarna Semuc Champey zelf: turquoise natuurzwembaden en een mirador. Bestel je ontbijt de avond ervoor. Maaltijden zijn niet inbegrepen; 's avonds eten we gezamenlijk in de lodge (aangeraden — buiten de lodge is het eten minder goed).
+### Dag 8 · Maandag 27 juli · Semuc Champey · Full Semuc tour
+**Intro:** Semuc Champey betekent "waar de rivier zich verstopt". We starten bij de grotten van Kan'ba, lopen, klimmen en zwemmen met een kaars in je hand. Daarna Semuc Champey zelf: turquoise natuurzwembaden en een mirador. Maaltijden zijn niet inbegrepen; 's avonds eten we gezamenlijk in de lodge (aangeraden, want buiten de lodge is het eten minder goed).
 - **Activiteit:** 09:00 · Full Semuc tour · duur: 8 uur · ophalen: Zephyr Lodge · meenemen: Zwemkleding; Handdoek; Hangslot; Sneakers voor de mirador; Waterschoenen; Water; Lunch (niet inbegrepen)
 - **Verblijf:** Zephyr Lodge
 - **Maaltijden:** Ontbijt/–/–
 
-### Dag 9 — Dinsdag 28 juli — Semuc Champey — Vrije dag bij de jungle-pool
+### Dag 9 · Dinsdag 28 juli · Semuc Champey · Vrije dag bij de jungle-pool
 **Intro:** Toffe hostel met fijne vibe en een heerlijk zwembad met jungle-uitzicht. Als het weer het toelaat heeft de ActiviteitenCO tubing op de Lanquín-rivier geregeld: drijven met een biertje, twee stops voor spelletjes en lunch, en aan het eind een brug-sprong. Heen via de Grutas de Lanquín, terug naar de lodge in een jungle-Unimog. De tijden horen we pas als we aankomen (zaterdag/zondag). Geen tubing? Dan een vrije dag bij de pool.
 - **Activiteit:** n.t.b. · Tubing Lanquín-rivier (als het weer het toelaat) · ophalen: Zephyr Lodge · meenemen: Water; Zonnebrand; Geen schoenen
 - **Verblijf:** Zephyr Lodge
 - **Maaltijden:** Ontbijt/–/–
 
-### Dag 10 — Woensdag 29 juli — Yaxhá — Reisdag naar Yaxhá
+### Dag 10 · Woensdag 29 juli · Yaxhá · Reisdag naar Yaxhá
 **Intro:** Weer onderweg. We laten Semuc achter ons en rijden door naar El Sombrero. Eerste stuk met 4x4 naar het meeting point, daar staat ons transport klaar. Neem water, snacks en misschien wat films mee.
 - **Transport:** 08:00 · Lanquín → Yaxhá (El Sombrero) · duur: 9 uur · ophalen: Zephyr Lodge · meenemen: Water; Snacks; Films gedownload
 - **Verblijf:** Ecolodge El Sombrero
 - **Maaltijden:** Ontbijt/–/–
 
-### Dag 11 — Donderdag 30 juli — Yaxhá — Yaxhá hike & zonsondergang
+### Dag 11 · Donderdag 30 juli · Yaxhá · Yaxhá hike & zonsondergang
 **Intro:** Na de lunch haalt gids Luis ons op bij El Sombrero. We hiken de jungle in en leren over de dieren en planten. Daarna vanaf de top van een tempel naar de zonsondergang, en een totaal andere jungle bij nacht. Voor maaltijden zijn we aangewezen op de lodge: alleen het ontbijt is inbegrepen, de rest is voor eigen kosten.
 - **Activiteit:** 15:00 · Yaxhá hike · duur: 4 uur · ophalen: Ecolodge El Sombrero · meenemen: Headlamp; Zonnebrand; Muggenspray; Bedekkende kleding; Snacks & drank; Paspoort (verplicht park); Cash (Yaxhá Q80 p.p.); Optioneel: verrekijker
 - **Verblijf:** Ecolodge El Sombrero
 - **Maaltijden:** Ontbijt/–/–
 
-### Dag 12 — Vrijdag 31 juli — Onbewoond eiland — Naar Belize + overnight sailing
-**Intro:** Adiós Guatemala, hola Belize! We beginnen met een overnight sailing trip: zeilen over helder blauw water en kamperen op een eiland. Sta klaar om 07:00. Na de grens en het wisselen van voertuig word je bij de ferry in Belize City afgezet, tussen 11:00 en 12:00 aan boord. Neem al je bagage mee op de boot. Geen luxe — Robinson-Crusoe-stijl: basic tentjes op het strand. Koop alcohol & snacks vóór de grens.
+### Dag 12 · Vrijdag 31 juli · Onbewoond eiland · Naar Belize + overnight sailing
+**Intro:** Adiós Guatemala, hola Belize! Vandaag beginnen we aan een overnight sailing trip: we zeilen over helder blauw water en kamperen op een onbewoond eiland. We vertrekken om 08:00 vanaf El Sombrero, dus zorg dat je bagage ruim op tijd klaarstaat. Na de grens wisselen we van voertuig; in Belize City stap je tussen 11:00 en 12:00 op de boot. Al je bagage gaat mee op de boot. Verwacht geen luxe: het is Robinson-Crusoe-stijl, met basic tentjes op het strand. Zorg dat je genoeg drinken en snacks bij je hebt voor op het eiland.
 - **Transport:** 08:00 · Yaxhá → Grens Guate–Belize · duur: 1 uur · ophalen: El Sombrero
 - **Transport:** 09:00 · Grens → Belize City · duur: 2,5 uur · meenemen: (grensproces niet meegerekend)
-- **Activiteit:** 11:00 · Overnight sailing trip · duur: tot dag 13 · ophalen: San Pedro Belize Express Water Taxi · meenemen: Alle bagage gaat mee op de boot; Extra snacks & drank (vóór de grens kopen); Zonnebrand; Zwemkleding
+- **Activiteit:** 11:00 · Overnight sailing trip · duur: tot dag 13 · ophalen: San Pedro Belize Express Water Taxi · meenemen: Alle bagage gaat mee op de boot; Extra snacks & drank voor op het eiland; Zonnebrand; Zwemkleding
 - **Verblijf:** Onbewoond eiland (tent)
 - **Maaltijden:** Ontbijt/Lunch/Diner
 
-### Dag 13 — Zaterdag 1 augustus — Caye Caulker — Aankomst Caye Caulker
-**Intro:** Je wordt wakker op het strand, ontbijt, en we zeilen verder. De kapitein zet ons af bij Caye Caulker — minder dan 5 min lopen naar de accommodatie. Een paar heerlijke, relaxte dagen: werken aan dat kleurtje, een duik nemen of gaan duiken. Buena onda!
+### Dag 13 · Zaterdag 1 augustus · Caye Caulker · Aankomst Caye Caulker
+**Intro:** Je wordt wakker op het strand, ontbijt, en we zeilen verder. De kapitein zet ons af bij Caye Caulker, minder dan 5 min lopen naar de accommodatie. Een paar heerlijke, relaxte dagen: werken aan dat kleurtje, een duik nemen of gaan duiken. Buena onda!
 - **Verblijf:** Iguana Reef Inn
 - **Maaltijden:** Ontbijt/–/–
 
-### Dag 14 — Zondag 2 augustus — Caye Caulker — Go Slow + Sunday Funday
-**Intro:** Het motto is "Go Slow", dus een vrije ochtend. Klaar voor de highlight? Sunday Funday is een lokale institutie: feesten op het dek van een catamaran. We gaan met de groep — geboekt! Deuren 14:00, boot 16:30, terug na zonsondergang. Tropische beats, onbeperkt rum-punch, zwemmen bij The Split en de beste Go-Slow-vibes. Kosten $60 per persoon.
-- **Activiteit:** 14:00 · Sunday Funday (geboekt, $60 p.p.) · duur: tot na zonsondergang · ophalen: Caye Caulker · meenemen: Zwemkleding; Zonnebrand; Cash
+### Dag 14 · Zondag 2 augustus · Caye Caulker · Go Slow + Sunday Funday
+**Intro:** Het motto op Caye Caulker is "Go Slow", dus je hebt een vrije ochtend. 's Middags gaan we met de hele groep naar Sunday Funday: een boottocht op een catamaran met muziek, rum-punch en zwemmen bij The Split (het populaire strandje aan het noordelijke puntje van het eiland). Je verzamelt om 14:00, de boot vertrekt om 16:30 en we zijn na zonsondergang weer terug. Neem zwemkleding, zonnebrand en wat cash mee.
+- **Activiteit:** 14:00 · Sunday Funday · duur: tot na zonsondergang · ophalen: Caye Caulker · meenemen: Zwemkleding; Zonnebrand; Cash
 - **Verblijf:** Iguana Reef Inn
 - **Maaltijden:** –/–/–
 
-### Dag 15 — Maandag 3 augustus — Caye Caulker — Vrije dag op het eiland
-**Intro:** Een fijne, vrije dag. Onderdompel je in het tranquilo, relaxte Caribische eilandleven. Buena onda! Lazy Lizard overdag, de Sports Bar 's avonds is altijd een goed idee. 's Avonds sluiten we de reis af met een gezamenlijk goodbye-diner (locatie volgt nog; zelf afrekenen).
+### Dag 15 · Maandag 3 augustus · Caye Caulker · Vrije dag op het eiland
+**Intro:** Een fijne, vrije dag. Onderdompel je in het tranquilo, relaxte Caribische eilandleven. Buena onda! 's Avonds sluiten we de reis af met een gezamenlijk goodbye-diner (locatie volgt nog; zelf afrekenen).
 - **Verblijf:** Iguana Reef Inn
 - **Maaltijden:** –/–/–
 
-### Dag 16 — Dinsdag 4 augustus — Naar huis — Fly home
-**Intro:** Oh oh, alles komt tot een einde. We nemen de eerste ferry van 06:30 om rond 8:00 op het vliegveld te zijn; vanaf de ferry brengt een taxi je naar het vliegveld. Let op: dit schema geldt voor wie om 8:00 op het vliegveld wil zijn (waarschijnlijk Evalie, Lauren, Maria, Sterre en Valerie). Vertrek je later? Dan regel je je eigen ferry + taxi (op eigen kosten). Check je vluchttijden nog een keer en check vooraf in. We hopen dat je met een grote glimlach en veel nieuwe ervaringen naar huis vliegt!
+### Dag 16 · Dinsdag 4 augustus · Naar huis · Fly home
+**Intro:** Alles komt tot een einde. Vandaag reis je naar het vliegveld, en dat gaat op twee manieren, afhankelijk van waarvandaan je vliegt. Kijk bij "Vertrek laatste dag" in de Info-tab wie welke route neemt. Vlieg je vanuit Belize City? Wij hebben een taxi geregeld van de ferry naar het vliegveld van Belize City. Wil je die taxi mee, neem dan de eerste ferry van 06:30, dan ben je rond 8:00 op het vliegveld. Je ferryticket is de hele dag geldig, dus een latere ferry mag ook, maar dan regel je zelf een taxi naar het vliegveld. Vlieg je via Chetumal (Mexico)? Let op: naar Chetumal vaart maar één boot per dag, om 07:00 vanaf Caye Caulker (met een immigratiestop in San Pedro rond 08:30, aankomst Chetumal rond 10:30). Die boot van 07:00 moet je dus halen; er is geen latere boot dezelfde dag. Check sowieso je eigen vluchttijden nog een keer en check online in. We hopen dat je met een grote glimlach en veel nieuwe ervaringen naar huis vliegt!
 - **Transport:** 06:30 · Caye Caulker → Belize City · duur: 1 uur · ophalen: San Pedro Belize Express
 - **Transport:** 07:30 · Belize City → Vliegveld · duur: 0,5 uur · ophalen: Ferry Station
 - **Vlucht naar huis:** AA534 · 11:40
@@ -168,8 +172,8 @@ Iris Brouwer · Roos Burkens · Pien Goselink · Willemijn Jansen · Valentine K
 
 ## Vertrek laatste dag
 > Dag 16 (di 4 aug) splitst de groep. Iedereen houdt haar eigen ticket in haar eigen mail.
-- **Ferry naar Chetumal (Mexico):** 07:00 · San Pedro Belize Express · Caye Caulker → Chetumal · wie: Jade; Iris; Pien; Emma; Klaartje; Fabienne; Frederique; Hannah; Fieke; Maxime; Valentine
-- **Naar Belize City & vliegveld:** 06:30 · ferry Caye Caulker → Belize City, daarna taxi · wie: Willemijn; Maria; Lauren; Evalie; Valerie; Sterre
+- **Ferry naar Chetumal (Mexico):** 07:00 (enige boot die dag) · San Pedro Belize Express · Caye Caulker, immigratie in San Pedro ±08:30, aankomst Chetumal ±10:30 · wie: Jade; Iris; Pien; Emma; Klaartje; Fabienne; Frederique; Hannah; Fieke; Maxime; Valentine
+- **Naar Belize City & vliegveld:** eerste ferry 06:30 · taxi naar het vliegveld is geregeld · ticket is de hele dag geldig, latere ferry mag (dan zelf een taxi regelen) · wie: Willemijn; Maria; Lauren; Evalie; Valerie; Sterre
 - **Roos:** geen transfer geregeld, blijft mogelijk langer in Belize.
 
 ## Praktisch (tijdens de reis)
@@ -184,15 +188,15 @@ Iris Brouwer · Roos Burkens · Pien Goselink · Willemijn Jansen · Valentine K
 - Restaurants/bars: ±10% propina (soms al op de rekening).
 
 **Sí, hablo español**
-- No hablo español — Ik spreek geen Spaans
-- ¿Dónde está el baño? — Waar is de wc?
-- ¿Cuánto cuesta? — Hoeveel kost het?
-- Dos cervezas por favor — Twee biertjes, alsjeblieft
-- La cuenta por favor — De rekening, alsjeblieft
-- Tengo resaca — Ik heb een kater
-- Buena onda — cool / goede vibe
-- A huevos — natuurlijk!
-- Pilas — slim / let op
+- No hablo español, Ik spreek geen Spaans
+- ¿Dónde está el baño?, Waar is de wc?
+- ¿Cuánto cuesta?, Hoeveel kost het?
+- Dos cervezas por favor, Twee biertjes, alsjeblieft
+- La cuenta por favor, De rekening, alsjeblieft
+- Tengo resaca, Ik heb een kater
+- Buena onda, cool / goede vibe
+- A huevos, natuurlijk!
+- Pilas, slim / let op
 
 **Gezondheid & water**
 - Drinkwater: kraanwater niet drinken, wel oké om tanden te poetsen. Neem een grote fles en vul bij.
@@ -239,11 +243,12 @@ Iris Brouwer · Roos Burkens · Pien Goselink · Willemijn Jansen · Valentine K
 - Nek-/reiskussen + boek of e-reader
 - Optioneel: snorkelset
 
-> Voor de vulkaan: de operator levert het meeste (warme kleding, hoofdlamp, poncho, maaltijden, water, zelfs wc-papier). Zelf neem je schoenen met grip, dry-fit sportkleding en een extra paar sokken mee — zie de Acatenango-gids in de app.
+> Voor de vulkaan: de operator levert het meeste (warme kleding, hoofdlamp, poncho, maaltijden, water, zelfs wc-papier). Zelf neem je schoenen met grip, dry-fit sportkleding en een extra paar sokken mee, zie de Acatenango-gids in de app.
 
 ## Agenda-herinneringen
 > Worden als melding aan je agenda toegevoegd (bij "Zet de hele reis in je agenda").
 - **DJRV-formulier:** 2026-07-17 · 19:00 · DJRV-formulier invullen voor Guatemala (kan max 72u voor vertrek)
+- **Acatenango-huur beslissen:** 2026-07-18 · 12:00 · Beslis of je een porter (Q250) en/of rugzak (Q60) huurt voor de vulkaan
 
 ## Noodcontacten
 - **Tomás** (Man on the Ground, Colombia & Guatemala-expert) · +57 324 3815729

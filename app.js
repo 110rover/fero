@@ -1,5 +1,5 @@
 /* ============================================================
-   FERO companion-app — logica (v2)
+   FERO companion-app, logica (v2)
    App = TIJDENS de reis. Geoptimaliseerd voor iPhone.
    ============================================================ */
 (function () {
@@ -144,11 +144,14 @@
 
   function dayCardHtml(day, isToday) {
     var stop = T.stops[day.stop - 1];
-    var h = '<div class="card">';
+    var h = '<div class="card' + (day.festive ? " festive" : "") + '">';
+    if (day.festive) h += '<div class="festive-banner">🎉 ' + esc(day.festive) + " 🎉</div>";
     h += '<div class="card-hd"><span class="daynum">Dag ' + day.d + " · " + (stop ? esc(stop.name) : "") + '</span>' + countryChip(stop ? stop.country : "GT", isToday) + "</div>";
     h += '<h2 class="section-title">' + esc(day.title) + "</h2>";
     h += '<p class="muted sm">' + esc(day.wd) + " " + fmtDate(day.date) + "</p>";
     if (day.intro) h += '<p style="margin-top:10px">' + esc(day.intro) + "</p>";
+    (day.proposals || []).forEach(function (p) { h += '<div class="callout proposal"><b>Voorstel</b> ' + esc(p) + "</div>"; });
+    (day.tips || []).forEach(function (t) { h += '<div class="callout tip"><b>Tip</b> ' + esc(t) + "</div>"; });
 
     if (day.arrivals && day.arrivals.length) {
       var hasTransport = day.arrivals.some(function (a) { return a.transport; });
@@ -156,7 +159,7 @@
       if (hasTransport) {
         h += '<table class="ttable"><thead><tr><th>Vlucht</th><th>Aankomst</th><th>Vervoer</th><th>Wie</th></tr></thead><tbody>';
         day.arrivals.forEach(function (a) {
-          h += "<tr><td>" + esc(a.code) + "</td><td>" + esc(a.eta) + '</td><td>' + esc(a.transport || "—") + "</td><td>" + esc(a.who.join(", ")) + "</td></tr>";
+          h += "<tr><td>" + esc(a.code) + "</td><td>" + esc(a.eta) + '</td><td>' + esc(a.transport || ", ") + "</td><td>" + esc(a.who.join(", ")) + "</td></tr>";
         });
         h += "</tbody></table>";
       } else {
@@ -213,7 +216,7 @@
         '<p style="margin-top:8px">' + esc(first.intro) + "</p></div>" + calCard
       );
     }
-    return div('<div class="count"><div class="big">¡</div><div class="lbl">de reis zit erop</div><div class="tag">Tranquilo — tot de volgende keer</div></div>');
+    return div('<div class="count"><div class="big">¡</div><div class="lbl">de reis zit erop</div><div class="tag">Tranquilo, tot de volgende keer</div></div>');
   };
 
   views.plekken = function () {
@@ -240,7 +243,7 @@
         tips.forEach(function (tp) { h += '<div class="kv"><b>' + esc(tp.name) + "</b><span class=\"muted sm\">" + esc(tp.desc) + "</span></div>"; });
         h += "</div></details>";
       } else if (!s.guide) {
-        h += '<p class="muted sm" style="margin-top:10px">Weinig te plannen hier — vooral genieten.</p>';
+        h += '<p class="muted sm" style="margin-top:10px">Weinig te plannen hier, vooral genieten.</p>';
       }
       h += "</div>";
     });
@@ -317,7 +320,7 @@
 
     if (T.packing && T.packing.length) {
       h += '<details class="acc" id="pack-acc"><summary>🎒 Paklijst <span class="muted sm" id="pack-count"></span></summary>' +
-        '<div class="acc-body"><p class="muted sm" style="margin-top:0">Vink af wat je hebt ingepakt — blijft bewaard op je telefoon.</p>' +
+        '<div class="acc-body"><p class="muted sm" style="margin-top:0">Vink af wat je hebt ingepakt, blijft bewaard op je telefoon.</p>' +
         '<div class="btn-row" style="margin:0 0 12px"><button class="btn dark sm" id="pack-reset">↺ Reset</button></div>' +
         '<div id="packlist"></div></div></details>';
     }
@@ -377,7 +380,7 @@
     var h = '<button class="btn ghost sm" id="back-btn" style="margin-bottom:12px">← Terug</button>';
     h += '<p class="eyebrow">Lava Trails</p><h2 class="section-title">Acatenango-gids</h2>';
     if (a.note) h += '<div class="note-banner">' + esc(a.note) + "</div>";
-    h += '<div class="card"><h3 style="font-family:var(--serif);font-size:18px">Hoogtes</h3><ul class="bullets"><li>Acatenango summit — ' + a.summit.acatenango + " m</li><li>Volcán de Fuego — " + a.summit.fuego + " m</li><li>Basecamp — " + a.summit.basecamp + " m</li><li>La Soledad (start) — " + a.summit.soledad + " m</li></ul></div>";
+    h += '<div class="card"><h3 style="font-family:var(--serif);font-size:18px">Hoogtes</h3><ul class="bullets"><li>Acatenango summit, ' + a.summit.acatenango + " m</li><li>Volcán de Fuego, " + a.summit.fuego + " m</li><li>Basecamp, " + a.summit.basecamp + " m</li><li>La Soledad (start), " + a.summit.soledad + " m</li></ul></div>";
     a.schedule.forEach(function (s) {
       h += '<details class="acc" open><summary>' + esc(s.day) + '</summary><div class="acc-body">';
       s.items.forEach(function (it) { h += '<div class="leg"><div class="leg-time"><span class="t">' + esc(it[0]) + '</span></div><div class="leg-body"><div class="leg-title" style="font-weight:400">' + esc(it[1]) + "</div></div></div>"; });
