@@ -303,6 +303,18 @@
     var h = '<p class="eyebrow">Goed om te weten</p><h2 class="section-title">Info</h2>';
     h += calCardHtml();
 
+    if (T.departure && T.departure.length) {
+      h += '<details class="acc" open><summary>🚤 Vertrek laatste dag (4 aug)</summary><div class="acc-body">';
+      h += '<p class="muted sm" style="margin-top:0">De groep splitst op de laatste dag. Iedereen houdt haar eigen ticket in haar eigen mail.</p>';
+      T.departure.forEach(function (d) {
+        h += '<div class="kv"><b>' + esc(d.title) + "</b>";
+        if (d.meta) h += '<span class="muted sm">' + esc(d.meta) + "</span>";
+        if (d.who && d.who.length) h += '<span class="muted sm">Wie: ' + esc(d.who.join(", ")) + "</span>";
+        h += "</div>";
+      });
+      h += "</div></details>";
+    }
+
     if (T.packing && T.packing.length) {
       h += '<details class="acc" id="pack-acc"><summary>🎒 Paklijst <span class="muted sm" id="pack-count"></span></summary>' +
         '<div class="acc-body"><p class="muted sm" style="margin-top:0">Vink af wat je hebt ingepakt — blijft bewaard op je telefoon.</p>' +

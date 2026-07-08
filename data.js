@@ -1078,5 +1078,40 @@ window.TRIP = {
       "time": "19:00",
       "title": "DJRV-formulier invullen voor Guatemala (kan max 72u voor vertrek)"
     }
+  ],
+  "departure": [
+    {
+      "title": "Ferry naar Chetumal (Mexico)",
+      "who": [
+        "Jade",
+        "Iris",
+        "Pien",
+        "Emma",
+        "Klaartje",
+        "Fabienne",
+        "Frederique",
+        "Hannah",
+        "Fieke",
+        "Maxime",
+        "Valentine"
+      ],
+      "meta": "07:00 · San Pedro Belize Express · Caye Caulker → Chetumal"
+    },
+    {
+      "title": "Naar Belize City & vliegveld",
+      "who": [
+        "Willemijn",
+        "Maria",
+        "Lauren",
+        "Evalie",
+        "Valerie",
+        "Sterre"
+      ],
+      "meta": "06:30 · ferry Caye Caulker → Belize City, daarna taxi"
+    },
+    {
+      "title": "Roos",
+      "meta": "geen transfer geregeld, blijft mogelijk langer in Belize."
+    }
   ]
 };

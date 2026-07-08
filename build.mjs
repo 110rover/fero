@@ -224,12 +224,26 @@ const reminders = section("Agenda-herinneringen").map((l) => {
   return m ? { name: m[1].trim(), date: m[2], time: m[3], title: m[4].trim() } : null;
 }).filter(Boolean);
 
+// ---------- Vertrek laatste dag (transfer-groepen) ----------
+const departure = section("Vertrek laatste dag").filter((l) => /^- /.test(l)).map((l) => {
+  const title = (l.match(/\*\*(.+?):\*\*/) || [])[1] || "";
+  const rest = l.replace(/^- \*\*.+?:\*\*\s*/, "");
+  const parts = rest.split("·").map((s) => s.trim()).filter(Boolean);
+  const item = { title }, meta = [];
+  parts.forEach((p) => {
+    if (/^wie:/i.test(p)) item.who = p.replace(/^wie:\s*/i, "").split(";").map((x) => x.trim()).filter(Boolean);
+    else meta.push(p);
+  });
+  if (meta.length) item.meta = meta.join(" · ");
+  return item;
+}).filter((d) => d.title);
+
 // ---------- Assemble ----------
 const TRIP = {
   meta: { club: "Fero", subtitle: "Los Feromonen · en route", title: "Guatemala & Belize", tagline, start: days[0].date, end: days[days.length - 1].date, countries: 2, stopsCount: stops.length, daysCount: days.length, note: "Tijden zijn een indicatie en kunnen wijzigen. Leidend is altijd de WhatsApp-groep.", mapsList },
   names,
   retourFlight: (days.find((d) => d.flight) || {}).flight || { code: "AA534", dep: "11:40" },
-  stops, days, rooms, spots: SPOTS, practical, contacts, acatenango: ACATENANGO, packing, reminders,
+  stops, days, rooms, spots: SPOTS, practical, contacts, acatenango: ACATENANGO, packing, reminders, departure,
 };
 
 const header = "/* AUTO-GEGENEREERD uit content.md door build.mjs — NIET met de hand bewerken.\n   Bewerk content.md en run: node build.mjs */\n";

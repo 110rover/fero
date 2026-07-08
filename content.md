@@ -166,6 +166,12 @@ Iris Brouwer · Roos Burkens · Pien Goselink · Willemijn Jansen · Valentine K
 
 ---
 
+## Vertrek laatste dag
+> Dag 16 (di 4 aug) splitst de groep. Iedereen houdt haar eigen ticket in haar eigen mail.
+- **Ferry naar Chetumal (Mexico):** 07:00 · San Pedro Belize Express · Caye Caulker → Chetumal · wie: Jade; Iris; Pien; Emma; Klaartje; Fabienne; Frederique; Hannah; Fieke; Maxime; Valentine
+- **Naar Belize City & vliegveld:** 06:30 · ferry Caye Caulker → Belize City, daarna taxi · wie: Willemijn; Maria; Lauren; Evalie; Valerie; Sterre
+- **Roos:** geen transfer geregeld, blijft mogelijk langer in Belize.
+
 ## Praktisch (tijdens de reis)
 
 **Geld & fooien**
