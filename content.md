@@ -62,12 +62,14 @@ Iris Brouwer · Roos Burkens · Pien Goselink · Willemijn Jansen · Valentine K
 - **Maaltijden:** –/–/–
 
 ### Dag 2 · Dinsdag 21 juli · Antigua · City tour & kookles
-**Intro:** Hoe is de jetlag? We beginnen met een gezamenlijk ontbijt, en er is iemand jarig, hoera! Daarna doen we een city tour door het kleurrijke koloniale Antigua. 's Middags leren we tijdens een kookles traditionele Guatemalteekse gerechten maken (tortilla's en Pepián); dat is meteen ons avondeten. Antigua ligt op 1500 meter, dus de zon is fel: neem een pet, zonnebril en zonnebrand mee. Tussen de city tour (klaar rond 13:00) en de kookles (start 15:45) hebben we vrije tijd, en dat is meteen het enige echt vrije moment in Antigua. Gebruik het slim: pin Quetzales (vraag de gids tijdens de tour naar een goede pinautomaat) en sla wat snacks en drankjes in voor onderweg de komende dagen. Na de kookles vieren we 's avonds Jade's verjaardag met cocktails bij Ulew Cocktail Bar (om de hoek bij het hostel, 3 Poniente).
+**Intro:** Hoe is de jetlag? We beginnen met een gezamenlijk ontbijt, en er is iemand jarig, hoera! Daarna doen we een city tour door het kleurrijke koloniale Antigua. 's Middags leren we tijdens een kookles traditionele Guatemalteekse gerechten maken (tortilla's en Pepián); dat is meteen ons avondeten. Antigua ligt op 1500 meter, dus de zon is fel: neem een pet, zonnebril en zonnebrand mee. Tussen de city tour (klaar rond 13:00) en de kookles (start 15:45) hebben we vrije tijd, en dat is meteen het enige echt vrije moment in Antigua. Gebruik het slim: pin Quetzales (vraag de gids tijdens de tour naar een goede pinautomaat) en sla wat snacks en drankjes in voor onderweg de komende dagen. Na de kookles vieren we 's avonds samen Jade's verjaardag met cocktails (zie hieronder).
 **Feest:** Jade is jarig 🎉
 **Voorstel:** Samen lunchen? Wij stellen voor om direct na de city tour te gaan lunchen bij Café Bohème. Ga gezellig mee, of doe lekker jullie eigen ding, allebei prima.
 **Tip:** Pak vanavond alvast de twee tassen voor de vulkaan van morgen: één tas die met jullie de berg op gaat, en één tas die onderaan de vulkaan in de opslag blijft. Regel dit vanavond, zodat alles morgen vóór vertrek al klaar is en we het niet ter plekke bij de vulkaan hoeven uit te zoeken.
+**Tip:** Van Mark: drink de dag vóór de vulkaanbeklimming echt heel veel water. Goed gehydrateerd de berg op scheelt enorm, zeker op die hoogte.
 - **Activiteit:** 10:00 · City Tour · duur: 3 uur · ophalen: Ojala Hotel · meenemen: Water; Cash; Fanny pack; Zonnebril & pet/hoed; Zonnebrand
 - **Activiteit:** 15:45 · Kookles · duur: 4 uur · ophalen: Ojala Hotel · meenemen: Water; Comfortabele schoenen
+- **Activiteit:** 20:00 · Cocktails bij Ulew Cocktail Bar voor Jade's verjaardag (3 Poniente, om de hoek bij het hostel)
 - **Verblijf:** Ojala Hotel
 - **Maaltijden:** Ontbijt/–/Diner
 
