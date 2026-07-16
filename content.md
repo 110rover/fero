@@ -62,11 +62,12 @@ Iris Brouwer · Roos Burkens · Pien Goselink · Willemijn Jansen · Valentine K
 - **Maaltijden:** –/–/–
 
 ### Dag 2 · Dinsdag 21 juli · Antigua · City tour & kookles
-**Intro:** Hoe is de jetlag? We beginnen met een gezamenlijk ontbijt, en er is iemand jarig, hoera! Daarna doen we een city tour door het kleurrijke koloniale Antigua. 's Middags leren we tijdens een kookles traditionele Guatemalteekse gerechten maken (tortilla's en Pepián); dat is meteen ons avondeten. Antigua ligt op 1500 meter, dus de zon is fel: neem een pet, zonnebril en zonnebrand mee. Tussen de city tour (klaar rond 13:00) en de kookles (start 15:45) hebben we vrije tijd, en dat is meteen het enige echt vrije moment in Antigua. Gebruik het slim: pin Quetzales (vraag de gids tijdens de tour naar een goede pinautomaat) en sla wat snacks en drankjes in voor onderweg de komende dagen. Na de kookles vieren we 's avonds samen Jade's verjaardag met cocktails (zie hieronder).
+**Intro:** Hoe is de jetlag? Om 09:00 ontbijten we samen in het hostel. Daar trappen we de lustrumreis officieel af en beginnen we de dag gezamenlijk, want Jade is jarig! Daarna doen we een city tour door het kleurrijke koloniale Antigua. 's Middags leren we tijdens een kookles traditionele Guatemalteekse gerechten maken (tortilla's en Pepián); dat is meteen ons avondeten. Antigua ligt op 1500 meter, dus de zon is fel: neem een pet, zonnebril en zonnebrand mee. Tussen de city tour (klaar rond 13:00) en de kookles (start 15:45) hebben we vrije tijd, en dat is meteen het enige echt vrije moment in Antigua. Gebruik het slim: pin Quetzales (vraag de gids tijdens de tour naar een goede pinautomaat) en sla wat snacks en drankjes in voor onderweg de komende dagen. Na de kookles vieren we 's avonds samen Jade's verjaardag met cocktails (zie hieronder).
 **Feest:** Jade is jarig 🎉
 **Voorstel:** Samen lunchen? Wij stellen voor om direct na de city tour te gaan lunchen bij Café Bohème. Ga gezellig mee, of doe lekker jullie eigen ding, allebei prima.
 **Tip:** Pak vanavond alvast de twee tassen voor de vulkaan van morgen: één tas die met jullie de berg op gaat, en één tas die onderaan de vulkaan in de opslag blijft. Regel dit vanavond, zodat alles morgen vóór vertrek al klaar is en we het niet ter plekke bij de vulkaan hoeven uit te zoeken.
 **Tip:** Van Mark: drink de dag vóór de vulkaanbeklimming echt heel veel water. Goed gehydrateerd de berg op scheelt enorm, zeker op die hoogte.
+- **Activiteit:** 09:00 · Gezamenlijk ontbijt in het hostel, aftrap van de lustrumreis en Jade's verjaardag · duur: 1 uur
 - **Activiteit:** 10:00 · City Tour · duur: 3 uur · ophalen: Ojala Hotel · meenemen: Water; Cash; Fanny pack; Zonnebril & pet/hoed; Zonnebrand
 - **Activiteit:** 15:45 · Kookles · duur: 4 uur · ophalen: Ojala Hotel · meenemen: Water; Comfortabele schoenen
 - **Activiteit:** 20:00 · Cocktails bij Ulew Cocktail Bar voor Jade's verjaardag (3 Poniente, om de hoek bij het hostel)
@@ -82,7 +83,7 @@ Iris Brouwer · Roos Burkens · Pien Goselink · Willemijn Jansen · Valentine K
 > LET OP: we worden in Antigua opgehaald, maar gaan ná de vulkaan direct dóór naar Atitlán, dus niet terug naar Antigua (in het vulkaanboekje staat dat wel zo).
 
 ### Dag 4 · Donderdag 23 juli · Atitlán · Naar Lago Atitlán
-**Intro:** Moe maar voldaan komen we rond 12:00 van de vulkaan. Daarna rijden we naar Lago Atitlán, een van de mooiste meren ter wereld. Onderweg stoppen we bij de supermarkt en doen we met z'n allen boodschappen voor de villa (en meteen voor de lange busrit van dag 7). Van Vonk en mij krijgen jullie per groepje een boodschappenlijstje voor de gezamenlijke inkopen. Vanaf de hoofdweg brengen 4x4's ons en de bagage naar de villa. Villa Lisa heeft een keuken (met kookhulp!), een zwembad, jacuzzi, BBQ en fire pit; één avond barbecueën met marshmallows staat op het programma.
+**Intro:** Moe maar voldaan komen we rond 12:00 van de vulkaan. Daarna rijden we naar Lago Atitlán, een van de mooiste meren ter wereld. Onderweg stoppen we bij de supermarkt en doen we met z'n allen boodschappen voor de villa (en meteen voor de lange busrit van dag 7). We hebben vijf teams gemaakt; jullie lijstje staat in de app onder Info, bij Boodschappen, en je kunt het daar afvinken terwijl je door de schappen loopt. Vanaf de hoofdweg brengen 4x4's ons en de bagage naar de villa. Villa Lisa heeft een keuken (met kookhulp!), een zwembad, jacuzzi, BBQ en fire pit; één avond barbecueën met marshmallows staat op het programma.
 - **Transport:** 11:00 · Basecamp Acatenango → Atitlán (Villa Lisa) · duur: 3 uur · ophalen: La Soledad, Acatenango · meenemen: snack voor onderweg
 - **Verblijf:** Villa Lisa
 - **Maaltijden:** Ontbijt/–/–
@@ -160,6 +161,133 @@ Iris Brouwer · Roos Burkens · Pien Goselink · Willemijn Jansen · Valentine K
 - **Transport:** 07:30 · Belize City → Vliegveld · duur: 0,5 uur · ophalen: Ferry Station
 - **Vlucht naar huis:** AA534 · 11:40
 - **Maaltijden:** –/–/–
+
+---
+
+## Boodschappen
+> Eén supermarkt-stop op dag 4, onderweg van de vulkaan naar Villa Lisa. We doen in vijf teams boodschappen voor de villa (donderdag t/m zaterdag). Voor 18 personen, waarvan 2 vegetariërs. Hoeveelheden zijn een richtlijn, niet heilig. De villa heeft een startvoorraad koffie, thee, water en basics, dus koop dat alleen bij als het op is. En er is een kookhulp in de villa, dus vraag gerust om hulp.
+
+### Team 1 · Avondeten donderdag: enchiladas
+*Wie:* Emma; Roos; Klaartje
+> De kok kan dit voorbereiden, zodat het klaarstaat als jullie van de vulkaan komen.
+**Enchiladas**
+- Tortilla's, 36 (maïs of tarwe)
+- Kip, 2 kg
+- Vega (2 pers.): zwarte bonen, 2 blikken + mais, 1 blik
+- Passata of kant-en-klare enchiladasaus, 2 L
+- Ui, 1
+- Geraspte kaas, 600 g
+- Zure room
+- Verse koriander
+- Limoen
+
+### Team 2 · Avondeten vrijdag: BBQ met churrasco
+*Wie:* Hannah; Evalie; Maria; Jade
+> Dit is de barbecue-avond bij de fire pit, inclusief marshmallows.
+**BBQ**
+- Churrasco (biefstuk), 2,5 kg
+- Tortilla's, 25
+- Maiskolven, 12
+- Marshmallows, 3 grote zakken (+ stokjes)
+**Groentespiesen (vega + bijgerecht)**
+- Paprika's, 4
+- Courgettes, 3
+- Rode uien, 3
+- Champignons, 400 g
+- Halloumi, 2 pakken
+**Guacamole**
+- Avocado's, 8
+- Limoenen, 3
+- Uien, 2
+- Tomaten, 2
+- Verse koriander
+**Salsa**
+- Tomaten, 1 kg
+- Rode uien, 2
+- Limoen, 1
+- Verse koriander
+- Chili
+
+### Team 3 · Avondeten zaterdag: gevulde paprika's met rijst
+*Wie:* Iris; Maxime; Valerie; Lauren
+> De kok kan dit vooraf maken en warm klaarzetten tegen dat we terug zijn van de boottocht.
+**Gevulde paprika's**
+- Paprika's, 18
+- Rijst (droog), 1,2 kg
+- Rundergehakt, 1,2 kg (vlees-variant)
+- Vega (2 pers.): zwarte bonen, 2 blikken + mais, 1 blik
+- Passata (tomatensaus), 2 L
+- Ui, 1
+- Geraspte kaas, 400 g
+- Sla voor een groene salade, of brood
+
+### Team 4 · Ontbijt & lunch
+*Wie:* Fieke; Fabienne; Pien; Sterre
+> Jullie mogen dit helemaal zelf invullen! Hieronder staat wat wij hadden bedacht, puur als inspiratie. Iets anders maken mag dus prima.
+**Ontbijt vrijdag & zaterdag (inspiratie)**
+- Yoghurt, 3 L
+- Granola, 1 kg
+- Honing, 1 pot
+- Brood, 3 à 4
+- Beleg: kaas, ham, jam, pindakaas, boter
+- Eieren, 24
+- Jus d'orange
+- Melk
+**Vers fruit, ontbijt + snack overdag (extra lekker in Guatemala)**
+- Mango
+- Ananas
+- Papaya
+- Watermeloen
+- Bananen
+- Maracuyá (passievrucht)
+- Granadilla
+- Pitahaya (dragonfruit)
+**Lunch vrijdag, frisse salades (inspiratie)**
+- Bonen-mais salade: zwarte bonen, 5 blikken + mais, 3 blikken + rode ui, 1 + paprika's, 2 + koriander + limoen + olijfolie
+- Tomaat-komkommer salade: tomaten, 1 kg + komkommers, 3 + avocado's, 3 + feta (optioneel)
+- Erbij: brood of wraps
+
+### Team 5 · Drinken & snacks
+*Wie:* Valentine; Frederique; Willemijn
+> Jullie bepalen zelf wat er in de kar gaat! Alleen de cocktail-ingrediënten staan vast, die willen we er echt bij hebben. De rest hieronder is inspiratie.
+**Cocktail: Guatemalteekse rum punch (vast, ± 8 glazen per kan)**
+- Rum, 500 ml (lokaal: Ron Botran of Zacapa)
+- Ananassap, 1 L
+- Sinaasappelsap, 500 ml
+- Limoenen, 4
+- Grenadine (optioneel, voor de kleur)
+- Schijfjes limoen en ananas om te garneren
+**Drank (inspiratie)**
+- Drinkwater, ruim (± 1,5 L p.p. per dag)
+- Bier: Corona, ± 2 kratten
+- Bier: gewone pils (lokaal: Gallo), ± 2 kratten
+- Wijn: wit/rosé, 6 à 8 flessen (evt. rood)
+- Mixers/fris: cola, tonic, sodawater, sinas
+- IJs
+**Snacks & borrel (inspiratie)**
+- Tortillachips, 3 zakken
+- Verse guacamole donderdag: avocado's, 6 + limoenen, 2 + rode ui, 1 + tomaat, 1 + koriander
+- Potjes salsa + guacamole-dip
+- Plantaanchips
+- Gemengde noten
+- Olijven
+- Kaasblokjes + crackers
+
+### Nog te verdelen · Basis-keuken & busproviand
+*Wie:* nog niet verdeeld
+> Deze twee horen bij geen enkel team, maar moeten wel mee. Spreek even af wie ze pakt, anders staan we straks zonder zout of zonder snacks in de bus.
+**Basis-keuken (voor álle gerechten)**
+- Olie (olijf + zonnebloem)
+- Zout, peper
+- Komijn, paprikapoeder, chilipoeder
+- Knoflook (bulk)
+- Uien (bulk)
+- Limoenen (bulk)
+- Extra koriander
+**Busproviand dag 7 (lange rit van 11 uur, dit is de laatste goede winkel)**
+- Chips, koekjes, noten, crackers, ontbijtkoek
+- Fruit voor onderweg
+- Extra water & blikjes
 
 ---
 

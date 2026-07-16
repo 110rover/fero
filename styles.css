@@ -194,6 +194,11 @@ button { font-family: var(--sans); cursor: pointer; }
 .name.on .label { text-decoration: line-through; color: var(--ink-soft); }
 .pack-cat { font-family: var(--serif); font-size: 15px; font-weight: 600; color: var(--ink); margin: 16px 0 8px; }
 .pack-cat:first-child { margin-top: 0; }
+.team-acc { margin-bottom: 8px; }
+.team-acc > summary { flex-wrap: wrap; align-items: baseline; gap: 3px 8px; padding: 13px 14px; }
+.team-acc .team-name { font-weight: 700; }
+.team-acc .team-task { font-family: var(--serif); font-weight: 400; font-size: 13px; color: var(--ink-soft); flex: 1 1 100%; order: 3; }
+.team-acc .team-n { font-family: var(--mono); margin-left: auto; }
 .ttable { width: 100%; border-collapse: collapse; font-size: 13px; margin-top: 4px; }
 .ttable th, .ttable td { text-align: left; vertical-align: top; padding: 7px 8px; border-bottom: 1px solid var(--line); }
 .ttable th { font-size: 11px; text-transform: uppercase; letter-spacing: .04em; color: var(--ink-soft); font-weight: 600; }

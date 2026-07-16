@@ -221,6 +221,38 @@ const packing = [];
   }
 }
 
+// ---------- Boodschappen (teams, afvinkbaar) ----------
+const shopping = { intro: "", teams: [] };
+{
+  let team = null, group = null;
+  for (const ln of section("Boodschappen")) {
+    const th = ln.match(/^### (.+)$/);
+    if (th) {
+      const p = th[1].split("·").map((s) => s.trim());
+      team = { title: p[0], task: p.slice(1).join(" · "), who: [], groups: [] };
+      shopping.teams.push(team);
+      group = null;
+      continue;
+    }
+    const quote = ln.match(/^>\s?(.+)$/);
+    if (quote) {
+      const t = quote[1].trim();
+      if (team) team.note = team.note ? team.note + " " + t : t;
+      else shopping.intro = shopping.intro ? shopping.intro + " " + t : t;
+      continue;
+    }
+    if (!team) continue;
+    const who = ln.match(/^\*Wie:\*\s*(.+)$/);
+    if (who) { team.who = who[1].split(";").map((s) => s.trim()).filter(Boolean); continue; }
+    const gh = ln.match(/^\*\*(.+?)\*\*$/);
+    if (gh) { group = { title: gh[1].trim(), items: [] }; team.groups.push(group); continue; }
+    if (/^- /.test(ln)) {
+      if (!group) { group = { title: "", items: [] }; team.groups.push(group); }
+      group.items.push(ln.replace(/^- /, "").trim());
+    }
+  }
+}
+
 // ---------- Agenda-herinneringen ----------
 const reminders = section("Agenda-herinneringen").map((l) => {
   const m = l.match(/^- \*\*(.+?):\*\*\s*(\d{4}-\d{2}-\d{2})\s*·\s*(\d{1,2}:\d{2})\s*·\s*(.+)$/);
@@ -246,9 +278,9 @@ const TRIP = {
   meta: { club: "Fero", subtitle: "Los Feromonen · en route", title: "Guatemala & Belize", tagline, start: days[0].date, end: days[days.length - 1].date, countries: 2, stopsCount: stops.length, daysCount: days.length, note: "Tijden zijn een indicatie en kunnen wijzigen. Leidend is altijd de WhatsApp-groep.", mapsList },
   names,
   retourFlight: (days.find((d) => d.flight) || {}).flight || { code: "AA534", dep: "11:40" },
-  stops, days, rooms, spots: SPOTS, practical, contacts, acatenango: ACATENANGO, packing, reminders, departure,
+  stops, days, rooms, spots: SPOTS, practical, contacts, acatenango: ACATENANGO, packing, reminders, departure, shopping,
 };
 
 const header = "/* AUTO-GEGENEREERD uit content.md door build.mjs, NIET met de hand bewerken.\n   Bewerk content.md en run: node build.mjs */\n";
 writeFileSync(join(DIR, "data.js"), header + "window.TRIP = " + JSON.stringify(TRIP, null, 2) + ";\n");
-console.log("✓ data.js gegenereerd:", days.length, "dagen,", stops.length, "stops,", names.length, "namen,", contacts.length, "contacten,", rooms.length, "kamers,", packing.reduce((a, g) => a + g.items.length, 0), "paklijst-items,", reminders.length, "herinneringen.");
+console.log("✓ data.js gegenereerd:", days.length, "dagen,", stops.length, "stops,", names.length, "namen,", contacts.length, "contacten,", rooms.length, "kamers,", packing.reduce((a, g) => a + g.items.length, 0), "paklijst-items,", reminders.length, "herinneringen,", shopping.teams.length, "boodschappenteams (" + shopping.teams.reduce((a, t) => a + t.groups.reduce((b, g) => b + g.items.length, 0), 0) + " items).");

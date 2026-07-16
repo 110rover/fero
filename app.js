@@ -302,6 +302,15 @@
   function packSave(s) { try { localStorage.setItem("fero_paklijst", JSON.stringify(s)); } catch (e) {} }
   function packTotal() { return (T.packing || []).reduce(function (a, g) { return a + g.items.length; }, 0); }
 
+  /* Boodschappen (afvinkbaar per team, bewaard op deze telefoon) */
+  function shopState() { try { return JSON.parse(localStorage.getItem("fero_boodschappen") || "{}"); } catch (e) { return {}; } }
+  function shopSave(s) { try { localStorage.setItem("fero_boodschappen", JSON.stringify(s)); } catch (e) {} }
+  function shopTotal() {
+    return ((T.shopping && T.shopping.teams) || []).reduce(function (a, t) {
+      return a + t.groups.reduce(function (b, g) { return b + g.items.length; }, 0);
+    }, 0);
+  }
+
   views.info = function () {
     var h = '<p class="eyebrow">Goed om te weten</p><h2 class="section-title">Info</h2>';
     h += calCardHtml();
@@ -323,6 +332,13 @@
         '<div class="acc-body"><p class="muted sm" style="margin-top:0">Vink af wat je hebt ingepakt, blijft bewaard op je telefoon.</p>' +
         '<div class="btn-row" style="margin:0 0 12px"><button class="btn dark sm" id="pack-reset">↺ Reset</button></div>' +
         '<div id="packlist"></div></div></details>';
+    }
+
+    if (T.shopping && T.shopping.teams && T.shopping.teams.length) {
+      h += '<details class="acc" id="shop-acc"><summary>🛒 Boodschappen dag 4 <span class="muted sm" id="shop-count"></span></summary><div class="acc-body">';
+      if (T.shopping.intro) h += '<p class="muted sm" style="margin-top:0">' + esc(T.shopping.intro) + "</p>";
+      h += '<div class="btn-row" style="margin:0 0 12px"><button class="btn dark sm" id="shop-reset">↺ Reset</button></div>';
+      h += '<div id="shoplist"></div></div></details>';
     }
 
     Object.keys(T.practical).forEach(function (key) {
@@ -370,6 +386,80 @@
       }
       node.querySelector("#pack-reset").addEventListener("click", function () { packSave({}); refreshPack(); });
       setTimeout(refreshPack, 0);
+    }
+
+    var shoplist = node.querySelector("#shoplist");
+    if (shoplist) {
+      var shopCountEl = node.querySelector("#shop-count");
+      var shopRows = [];
+
+      function paintShop() {
+        var st = shopState(), done = 0;
+        shopRows.forEach(function (r) {
+          var on = !!st[r.key];
+          r.row.classList.toggle("on", on);
+          r.box.textContent = on ? "✓" : "";
+          if (on) done++;
+        });
+        T.shopping.teams.forEach(function (team, i) {
+          var mine = shopRows.filter(function (r) { return r.team === i; });
+          var d = mine.filter(function (r) { return !!st[r.key]; }).length;
+          if (team.countEl) team.countEl.textContent = d + "/" + mine.length;
+        });
+        if (shopCountEl) shopCountEl.textContent = done + "/" + shopTotal();
+      }
+
+      T.shopping.teams.forEach(function (team, ti) {
+        var wrap = document.createElement("details");
+        wrap.className = "acc team-acc";
+        var sum = document.createElement("summary");
+        sum.innerHTML = '<span class="team-name">' + esc(team.title) + "</span>" +
+          (team.task ? '<span class="team-task">' + esc(team.task) + "</span>" : "") +
+          '<span class="muted sm team-n"></span>';
+        team.countEl = sum.querySelector(".team-n");
+        wrap.appendChild(sum);
+        var body = document.createElement("div");
+        body.className = "acc-body";
+        if (team.who && team.who.length) {
+          var who = document.createElement("p");
+          who.className = "muted sm";
+          who.style.margin = "0 0 6px";
+          who.textContent = "Wie: " + team.who.join(", ");
+          body.appendChild(who);
+        }
+        if (team.note) {
+          var note = document.createElement("p");
+          note.className = "muted sm";
+          note.style.margin = "0 0 12px";
+          note.textContent = team.note;
+          body.appendChild(note);
+        }
+        team.groups.forEach(function (g) {
+          if (g.title) {
+            var cat = document.createElement("div");
+            cat.className = "pack-cat";
+            cat.textContent = g.title;
+            body.appendChild(cat);
+          }
+          var grid = document.createElement("div");
+          grid.className = "namegrid";
+          g.items.forEach(function (item) {
+            var key = team.title + "|" + g.title + "|" + item;
+            var row = document.createElement("div");
+            row.className = "name";
+            row.innerHTML = '<div class="box"></div><div class="label">' + esc(item) + "</div>";
+            row.addEventListener("click", function () { var c = shopState(); c[key] = !c[key]; shopSave(c); paintShop(); });
+            shopRows.push({ key: key, row: row, box: row.querySelector(".box"), team: ti });
+            grid.appendChild(row);
+          });
+          body.appendChild(grid);
+        });
+        wrap.appendChild(body);
+        shoplist.appendChild(wrap);
+      });
+
+      node.querySelector("#shop-reset").addEventListener("click", function () { shopSave({}); paintShop(); });
+      setTimeout(paintShop, 0);
     }
     return node;
   };

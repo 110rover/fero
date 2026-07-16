@@ -235,7 +235,7 @@ window.TRIP = {
         "l": false,
         "d": true
       },
-      "intro": "Hoe is de jetlag? We beginnen met een gezamenlijk ontbijt, en er is iemand jarig, hoera! Daarna doen we een city tour door het kleurrijke koloniale Antigua. 's Middags leren we tijdens een kookles traditionele Guatemalteekse gerechten maken (tortilla's en Pepián); dat is meteen ons avondeten. Antigua ligt op 1500 meter, dus de zon is fel: neem een pet, zonnebril en zonnebrand mee. Tussen de city tour (klaar rond 13:00) en de kookles (start 15:45) hebben we vrije tijd, en dat is meteen het enige echt vrije moment in Antigua. Gebruik het slim: pin Quetzales (vraag de gids tijdens de tour naar een goede pinautomaat) en sla wat snacks en drankjes in voor onderweg de komende dagen. Na de kookles vieren we 's avonds samen Jade's verjaardag met cocktails (zie hieronder).",
+      "intro": "Hoe is de jetlag? Om 09:00 ontbijten we samen in het hostel. Daar trappen we de lustrumreis officieel af en beginnen we de dag gezamenlijk, want Jade is jarig! Daarna doen we een city tour door het kleurrijke koloniale Antigua. 's Middags leren we tijdens een kookles traditionele Guatemalteekse gerechten maken (tortilla's en Pepián); dat is meteen ons avondeten. Antigua ligt op 1500 meter, dus de zon is fel: neem een pet, zonnebril en zonnebrand mee. Tussen de city tour (klaar rond 13:00) en de kookles (start 15:45) hebben we vrije tijd, en dat is meteen het enige echt vrije moment in Antigua. Gebruik het slim: pin Quetzales (vraag de gids tijdens de tour naar een goede pinautomaat) en sla wat snacks en drankjes in voor onderweg de komende dagen. Na de kookles vieren we 's avonds samen Jade's verjaardag met cocktails (zie hieronder).",
       "festive": "Jade is jarig 🎉",
       "proposals": [
         "Samen lunchen? Wij stellen voor om direct na de city tour te gaan lunchen bij Café Bohème. Ga gezellig mee, of doe lekker jullie eigen ding, allebei prima."
@@ -245,6 +245,11 @@ window.TRIP = {
         "Van Mark: drink de dag vóór de vulkaanbeklimming echt heel veel water. Goed gehydrateerd de berg op scheelt enorm, zeker op die hoogte."
       ],
       "activity": [
+        {
+          "dep": "09:00",
+          "name": "Gezamenlijk ontbijt in het hostel, aftrap van de lustrumreis en Jade's verjaardag",
+          "dur": "1 uur"
+        },
         {
           "dep": "10:00",
           "name": "City Tour",
@@ -328,7 +333,7 @@ window.TRIP = {
         "l": false,
         "d": false
       },
-      "intro": "Moe maar voldaan komen we rond 12:00 van de vulkaan. Daarna rijden we naar Lago Atitlán, een van de mooiste meren ter wereld. Onderweg stoppen we bij de supermarkt en doen we met z'n allen boodschappen voor de villa (en meteen voor de lange busrit van dag 7). Van Vonk en mij krijgen jullie per groepje een boodschappenlijstje voor de gezamenlijke inkopen. Vanaf de hoofdweg brengen 4x4's ons en de bagage naar de villa. Villa Lisa heeft een keuken (met kookhulp!), een zwembad, jacuzzi, BBQ en fire pit; één avond barbecueën met marshmallows staat op het programma.",
+      "intro": "Moe maar voldaan komen we rond 12:00 van de vulkaan. Daarna rijden we naar Lago Atitlán, een van de mooiste meren ter wereld. Onderweg stoppen we bij de supermarkt en doen we met z'n allen boodschappen voor de villa (en meteen voor de lange busrit van dag 7). We hebben vijf teams gemaakt; jullie lijstje staat in de app onder Info, bij Boodschappen, en je kunt het daar afvinken terwijl je door de schappen loopt. Vanaf de hoofdweg brengen 4x4's ons en de bagage naar de villa. Villa Lisa heeft een keuken (met kookhulp!), een zwembad, jacuzzi, BBQ en fire pit; één avond barbecueën met marshmallows staat op het programma.",
       "transport": [
         {
           "dep": "11:00",
@@ -1136,5 +1141,237 @@ window.TRIP = {
       "title": "Roos",
       "meta": "geen transfer geregeld, blijft mogelijk langer in Belize."
     }
-  ]
+  ],
+  "shopping": {
+    "intro": "Eén supermarkt-stop op dag 4, onderweg van de vulkaan naar Villa Lisa. We doen in vijf teams boodschappen voor de villa (donderdag t/m zaterdag). Voor 18 personen, waarvan 2 vegetariërs. Hoeveelheden zijn een richtlijn, niet heilig. De villa heeft een startvoorraad koffie, thee, water en basics, dus koop dat alleen bij als het op is. En er is een kookhulp in de villa, dus vraag gerust om hulp.",
+    "teams": [
+      {
+        "title": "Team 1",
+        "task": "Avondeten donderdag: enchiladas",
+        "who": [
+          "Emma",
+          "Roos",
+          "Klaartje"
+        ],
+        "groups": [
+          {
+            "title": "Enchiladas",
+            "items": [
+              "Tortilla's, 36 (maïs of tarwe)",
+              "Kip, 2 kg",
+              "Vega (2 pers.): zwarte bonen, 2 blikken + mais, 1 blik",
+              "Passata of kant-en-klare enchiladasaus, 2 L",
+              "Ui, 1",
+              "Geraspte kaas, 600 g",
+              "Zure room",
+              "Verse koriander",
+              "Limoen"
+            ]
+          }
+        ],
+        "note": "De kok kan dit voorbereiden, zodat het klaarstaat als jullie van de vulkaan komen."
+      },
+      {
+        "title": "Team 2",
+        "task": "Avondeten vrijdag: BBQ met churrasco",
+        "who": [
+          "Hannah",
+          "Evalie",
+          "Maria",
+          "Jade"
+        ],
+        "groups": [
+          {
+            "title": "BBQ",
+            "items": [
+              "Churrasco (biefstuk), 2,5 kg",
+              "Tortilla's, 25",
+              "Maiskolven, 12",
+              "Marshmallows, 3 grote zakken (+ stokjes)"
+            ]
+          },
+          {
+            "title": "Groentespiesen (vega + bijgerecht)",
+            "items": [
+              "Paprika's, 4",
+              "Courgettes, 3",
+              "Rode uien, 3",
+              "Champignons, 400 g",
+              "Halloumi, 2 pakken"
+            ]
+          },
+          {
+            "title": "Guacamole",
+            "items": [
+              "Avocado's, 8",
+              "Limoenen, 3",
+              "Uien, 2",
+              "Tomaten, 2",
+              "Verse koriander"
+            ]
+          },
+          {
+            "title": "Salsa",
+            "items": [
+              "Tomaten, 1 kg",
+              "Rode uien, 2",
+              "Limoen, 1",
+              "Verse koriander",
+              "Chili"
+            ]
+          }
+        ],
+        "note": "Dit is de barbecue-avond bij de fire pit, inclusief marshmallows."
+      },
+      {
+        "title": "Team 3",
+        "task": "Avondeten zaterdag: gevulde paprika's met rijst",
+        "who": [
+          "Iris",
+          "Maxime",
+          "Valerie",
+          "Lauren"
+        ],
+        "groups": [
+          {
+            "title": "Gevulde paprika's",
+            "items": [
+              "Paprika's, 18",
+              "Rijst (droog), 1,2 kg",
+              "Rundergehakt, 1,2 kg (vlees-variant)",
+              "Vega (2 pers.): zwarte bonen, 2 blikken + mais, 1 blik",
+              "Passata (tomatensaus), 2 L",
+              "Ui, 1",
+              "Geraspte kaas, 400 g",
+              "Sla voor een groene salade, of brood"
+            ]
+          }
+        ],
+        "note": "De kok kan dit vooraf maken en warm klaarzetten tegen dat we terug zijn van de boottocht."
+      },
+      {
+        "title": "Team 4",
+        "task": "Ontbijt & lunch",
+        "who": [
+          "Fieke",
+          "Fabienne",
+          "Pien",
+          "Sterre"
+        ],
+        "groups": [
+          {
+            "title": "Ontbijt vrijdag & zaterdag (inspiratie)",
+            "items": [
+              "Yoghurt, 3 L",
+              "Granola, 1 kg",
+              "Honing, 1 pot",
+              "Brood, 3 à 4",
+              "Beleg: kaas, ham, jam, pindakaas, boter",
+              "Eieren, 24",
+              "Jus d'orange",
+              "Melk"
+            ]
+          },
+          {
+            "title": "Vers fruit, ontbijt + snack overdag (extra lekker in Guatemala)",
+            "items": [
+              "Mango",
+              "Ananas",
+              "Papaya",
+              "Watermeloen",
+              "Bananen",
+              "Maracuyá (passievrucht)",
+              "Granadilla",
+              "Pitahaya (dragonfruit)"
+            ]
+          },
+          {
+            "title": "Lunch vrijdag, frisse salades (inspiratie)",
+            "items": [
+              "Bonen-mais salade: zwarte bonen, 5 blikken + mais, 3 blikken + rode ui, 1 + paprika's, 2 + koriander + limoen + olijfolie",
+              "Tomaat-komkommer salade: tomaten, 1 kg + komkommers, 3 + avocado's, 3 + feta (optioneel)",
+              "Erbij: brood of wraps"
+            ]
+          }
+        ],
+        "note": "Jullie mogen dit helemaal zelf invullen! Hieronder staat wat wij hadden bedacht, puur als inspiratie. Iets anders maken mag dus prima."
+      },
+      {
+        "title": "Team 5",
+        "task": "Drinken & snacks",
+        "who": [
+          "Valentine",
+          "Frederique",
+          "Willemijn"
+        ],
+        "groups": [
+          {
+            "title": "Cocktail: Guatemalteekse rum punch (vast, ± 8 glazen per kan)",
+            "items": [
+              "Rum, 500 ml (lokaal: Ron Botran of Zacapa)",
+              "Ananassap, 1 L",
+              "Sinaasappelsap, 500 ml",
+              "Limoenen, 4",
+              "Grenadine (optioneel, voor de kleur)",
+              "Schijfjes limoen en ananas om te garneren"
+            ]
+          },
+          {
+            "title": "Drank (inspiratie)",
+            "items": [
+              "Drinkwater, ruim (± 1,5 L p.p. per dag)",
+              "Bier: Corona, ± 2 kratten",
+              "Bier: gewone pils (lokaal: Gallo), ± 2 kratten",
+              "Wijn: wit/rosé, 6 à 8 flessen (evt. rood)",
+              "Mixers/fris: cola, tonic, sodawater, sinas",
+              "IJs"
+            ]
+          },
+          {
+            "title": "Snacks & borrel (inspiratie)",
+            "items": [
+              "Tortillachips, 3 zakken",
+              "Verse guacamole donderdag: avocado's, 6 + limoenen, 2 + rode ui, 1 + tomaat, 1 + koriander",
+              "Potjes salsa + guacamole-dip",
+              "Plantaanchips",
+              "Gemengde noten",
+              "Olijven",
+              "Kaasblokjes + crackers"
+            ]
+          }
+        ],
+        "note": "Jullie bepalen zelf wat er in de kar gaat! Alleen de cocktail-ingrediënten staan vast, die willen we er echt bij hebben. De rest hieronder is inspiratie."
+      },
+      {
+        "title": "Nog te verdelen",
+        "task": "Basis-keuken & busproviand",
+        "who": [
+          "nog niet verdeeld"
+        ],
+        "groups": [
+          {
+            "title": "Basis-keuken (voor álle gerechten)",
+            "items": [
+              "Olie (olijf + zonnebloem)",
+              "Zout, peper",
+              "Komijn, paprikapoeder, chilipoeder",
+              "Knoflook (bulk)",
+              "Uien (bulk)",
+              "Limoenen (bulk)",
+              "Extra koriander"
+            ]
+          },
+          {
+            "title": "Busproviand dag 7 (lange rit van 11 uur, dit is de laatste goede winkel)",
+            "items": [
+              "Chips, koekjes, noten, crackers, ontbijtkoek",
+              "Fruit voor onderweg",
+              "Extra water & blikjes"
+            ]
+          }
+        ],
+        "note": "Deze twee horen bij geen enkel team, maar moeten wel mee. Spreek even af wie ze pakt, anders staan we straks zonder zout of zonder snacks in de bus."
+      }
+    ]
+  }
 };
