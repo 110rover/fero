@@ -83,7 +83,8 @@ Iris Brouwer · Roos Burkens · Pien Goselink · Willemijn Jansen · Valentine K
 > LET OP: we worden in Antigua opgehaald, maar gaan ná de vulkaan direct dóór naar Atitlán, dus niet terug naar Antigua (in het vulkaanboekje staat dat wel zo).
 
 ### Dag 4 · Donderdag 23 juli · Atitlán · Naar Lago Atitlán
-**Intro:** Moe maar voldaan komen we rond 12:00 van de vulkaan. Daarna rijden we naar Lago Atitlán, een van de mooiste meren ter wereld. Onderweg stoppen we bij de supermarkt en doen we met z'n allen boodschappen voor de villa (en meteen voor de lange busrit van dag 7). We hebben vijf teams gemaakt; jullie lijstje staat in de app onder Info, bij Boodschappen, en je kunt het daar afvinken terwijl je door de schappen loopt. Vanaf de hoofdweg brengen 4x4's ons en de bagage naar de villa. Villa Lisa heeft een keuken (met kookhulp!), een zwembad, jacuzzi, BBQ en fire pit; één avond barbecueën met marshmallows staat op het programma.
+**Tip:** Sla bij de supermarkt ook zelf je eigen eten en drinken in voor de busrit van dag 7. Dat is een rit van 11 uur en dit is de laatste goede winkel, dus koop ruim in. Dit doet iedereen voor zichzelf, naast de gezamenlijke boodschappen.
+**Intro:** Moe maar voldaan komen we rond 12:00 van de vulkaan. Daarna rijden we naar Lago Atitlán, een van de mooiste meren ter wereld. Onderweg stoppen we bij de supermarkt en doen we met z'n allen boodschappen voor de villa. We hebben vijf teams gemaakt; jullie lijstje staat in de app onder Info, bij Boodschappen, en je kunt het daar afvinken terwijl je door de schappen loopt. Vanaf de hoofdweg brengen 4x4's ons en de bagage naar de villa. Villa Lisa heeft een keuken (met kookhulp!), een zwembad, jacuzzi, BBQ en fire pit; één avond barbecueën met marshmallows staat op het programma.
 - **Transport:** 11:00 · Basecamp Acatenango → Atitlán (Villa Lisa) · duur: 3 uur · ophalen: La Soledad, Acatenango · meenemen: snack voor onderweg
 - **Verblijf:** Villa Lisa
 - **Maaltijden:** Ontbijt/–/–
@@ -165,7 +166,7 @@ Iris Brouwer · Roos Burkens · Pien Goselink · Willemijn Jansen · Valentine K
 ---
 
 ## Boodschappen
-> Eén supermarkt-stop op dag 4, onderweg van de vulkaan naar Villa Lisa. We doen in vijf teams boodschappen voor de villa (donderdag t/m zaterdag). Voor 18 personen, waarvan 2 vegetariërs. Hoeveelheden zijn een richtlijn, niet heilig. De villa heeft een startvoorraad koffie, thee, water en basics, dus koop dat alleen bij als het op is. En er is een kookhulp in de villa, dus vraag gerust om hulp.
+> Eén supermarkt-stop op dag 4, onderweg van de vulkaan naar Villa Lisa. We doen in vijf teams boodschappen voor de villa (donderdag t/m zaterdag). Voor 18 personen, waarvan 2 vegetariërs. Hoeveelheden zijn een richtlijn, niet heilig. De basis-keuken (kruiden, olie, knoflook, bulk-uien en -limoenen) is verdeeld over de teams en staat onderaan jullie eigen lijstje. De villa heeft een startvoorraad koffie, thee, water en basics, dus koop dat alleen bij als het op is. En er is een kookhulp in de villa, dus vraag gerust om hulp.
 
 ### Team 1 · Avondeten donderdag: enchiladas
 *Wie:* Emma; Roos; Klaartje
@@ -180,6 +181,12 @@ Iris Brouwer · Roos Burkens · Pien Goselink · Willemijn Jansen · Valentine K
 - Zure room
 - Verse koriander
 - Limoen
+**Basis-keuken (voor álle gerechten)**
+- Komijn
+- Paprikapoeder
+- Chilipoeder
+- Knoflook (bulk)
+- Extra koriander
 
 ### Team 2 · Avondeten vrijdag: BBQ met churrasco
 *Wie:* Hannah; Evalie; Maria; Jade
@@ -207,6 +214,8 @@ Iris Brouwer · Roos Burkens · Pien Goselink · Willemijn Jansen · Valentine K
 - Limoen, 1
 - Verse koriander
 - Chili
+**Basis-keuken (voor álle gerechten)**
+- Limoenen (bulk)
 
 ### Team 3 · Avondeten zaterdag: gevulde paprika's met rijst
 *Wie:* Iris; Maxime; Valerie; Lauren
@@ -220,6 +229,10 @@ Iris Brouwer · Roos Burkens · Pien Goselink · Willemijn Jansen · Valentine K
 - Ui, 1
 - Geraspte kaas, 400 g
 - Sla voor een groene salade, of brood
+**Basis-keuken (voor álle gerechten)**
+- Uien (bulk)
+- Zout
+- Peper
 
 ### Team 4 · Ontbijt & lunch
 *Wie:* Fieke; Fabienne; Pien; Sterre
@@ -246,6 +259,9 @@ Iris Brouwer · Roos Burkens · Pien Goselink · Willemijn Jansen · Valentine K
 - Bonen-mais salade: zwarte bonen, 5 blikken + mais, 3 blikken + rode ui, 1 + paprika's, 2 + koriander + limoen + olijfolie
 - Tomaat-komkommer salade: tomaten, 1 kg + komkommers, 3 + avocado's, 3 + feta (optioneel)
 - Erbij: brood of wraps
+**Basis-keuken (voor álle gerechten)**
+- Olijfolie
+- Zonnebloemolie
 
 ### Team 5 · Drinken & snacks
 *Wie:* Valentine; Frederique; Willemijn
@@ -273,18 +289,10 @@ Iris Brouwer · Roos Burkens · Pien Goselink · Willemijn Jansen · Valentine K
 - Olijven
 - Kaasblokjes + crackers
 
-### Nog te verdelen · Basis-keuken & busproviand
-*Wie:* nog niet verdeeld
-> Deze twee horen bij geen enkel team, maar moeten wel mee. Spreek even af wie ze pakt, anders staan we straks zonder zout of zonder snacks in de bus.
-**Basis-keuken (voor álle gerechten)**
-- Olie (olijf + zonnebloem)
-- Zout, peper
-- Komijn, paprikapoeder, chilipoeder
-- Knoflook (bulk)
-- Uien (bulk)
-- Limoenen (bulk)
-- Extra koriander
-**Busproviand dag 7 (lange rit van 11 uur, dit is de laatste goede winkel)**
+### Iedereen zelf · Proviand voor de busrit van dag 7
+*Wie:* iedereen, voor zichzelf
+> Naast de gezamenlijke boodschappen slaat iedereen bij deze stop haar eigen eten en drinken in voor de busrit van dag 7. Dat is een rit van 11 uur en dit is de laatste goede winkel, dus koop ruim in.
+**Denk aan**
 - Chips, koekjes, noten, crackers, ontbijtkoek
 - Fruit voor onderweg
 - Extra water & blikjes

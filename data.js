@@ -333,7 +333,10 @@ window.TRIP = {
         "l": false,
         "d": false
       },
-      "intro": "Moe maar voldaan komen we rond 12:00 van de vulkaan. Daarna rijden we naar Lago Atitlán, een van de mooiste meren ter wereld. Onderweg stoppen we bij de supermarkt en doen we met z'n allen boodschappen voor de villa (en meteen voor de lange busrit van dag 7). We hebben vijf teams gemaakt; jullie lijstje staat in de app onder Info, bij Boodschappen, en je kunt het daar afvinken terwijl je door de schappen loopt. Vanaf de hoofdweg brengen 4x4's ons en de bagage naar de villa. Villa Lisa heeft een keuken (met kookhulp!), een zwembad, jacuzzi, BBQ en fire pit; één avond barbecueën met marshmallows staat op het programma.",
+      "tips": [
+        "Sla bij de supermarkt ook zelf je eigen eten en drinken in voor de busrit van dag 7. Dat is een rit van 11 uur en dit is de laatste goede winkel, dus koop ruim in. Dit doet iedereen voor zichzelf, naast de gezamenlijke boodschappen."
+      ],
+      "intro": "Moe maar voldaan komen we rond 12:00 van de vulkaan. Daarna rijden we naar Lago Atitlán, een van de mooiste meren ter wereld. Onderweg stoppen we bij de supermarkt en doen we met z'n allen boodschappen voor de villa. We hebben vijf teams gemaakt; jullie lijstje staat in de app onder Info, bij Boodschappen, en je kunt het daar afvinken terwijl je door de schappen loopt. Vanaf de hoofdweg brengen 4x4's ons en de bagage naar de villa. Villa Lisa heeft een keuken (met kookhulp!), een zwembad, jacuzzi, BBQ en fire pit; één avond barbecueën met marshmallows staat op het programma.",
       "transport": [
         {
           "dep": "11:00",
@@ -1143,7 +1146,7 @@ window.TRIP = {
     }
   ],
   "shopping": {
-    "intro": "Eén supermarkt-stop op dag 4, onderweg van de vulkaan naar Villa Lisa. We doen in vijf teams boodschappen voor de villa (donderdag t/m zaterdag). Voor 18 personen, waarvan 2 vegetariërs. Hoeveelheden zijn een richtlijn, niet heilig. De villa heeft een startvoorraad koffie, thee, water en basics, dus koop dat alleen bij als het op is. En er is een kookhulp in de villa, dus vraag gerust om hulp.",
+    "intro": "Eén supermarkt-stop op dag 4, onderweg van de vulkaan naar Villa Lisa. We doen in vijf teams boodschappen voor de villa (donderdag t/m zaterdag). Voor 18 personen, waarvan 2 vegetariërs. Hoeveelheden zijn een richtlijn, niet heilig. De basis-keuken (kruiden, olie, knoflook, bulk-uien en -limoenen) is verdeeld over de teams en staat onderaan jullie eigen lijstje. De villa heeft een startvoorraad koffie, thee, water en basics, dus koop dat alleen bij als het op is. En er is een kookhulp in de villa, dus vraag gerust om hulp.",
     "teams": [
       {
         "title": "Team 1",
@@ -1166,6 +1169,16 @@ window.TRIP = {
               "Zure room",
               "Verse koriander",
               "Limoen"
+            ]
+          },
+          {
+            "title": "Basis-keuken (voor álle gerechten)",
+            "items": [
+              "Komijn",
+              "Paprikapoeder",
+              "Chilipoeder",
+              "Knoflook (bulk)",
+              "Extra koriander"
             ]
           }
         ],
@@ -1219,6 +1232,12 @@ window.TRIP = {
               "Verse koriander",
               "Chili"
             ]
+          },
+          {
+            "title": "Basis-keuken (voor álle gerechten)",
+            "items": [
+              "Limoenen (bulk)"
+            ]
           }
         ],
         "note": "Dit is de barbecue-avond bij de fire pit, inclusief marshmallows."
@@ -1244,6 +1263,14 @@ window.TRIP = {
               "Ui, 1",
               "Geraspte kaas, 400 g",
               "Sla voor een groene salade, of brood"
+            ]
+          },
+          {
+            "title": "Basis-keuken (voor álle gerechten)",
+            "items": [
+              "Uien (bulk)",
+              "Zout",
+              "Peper"
             ]
           }
         ],
@@ -1291,6 +1318,13 @@ window.TRIP = {
               "Bonen-mais salade: zwarte bonen, 5 blikken + mais, 3 blikken + rode ui, 1 + paprika's, 2 + koriander + limoen + olijfolie",
               "Tomaat-komkommer salade: tomaten, 1 kg + komkommers, 3 + avocado's, 3 + feta (optioneel)",
               "Erbij: brood of wraps"
+            ]
+          },
+          {
+            "title": "Basis-keuken (voor álle gerechten)",
+            "items": [
+              "Olijfolie",
+              "Zonnebloemolie"
             ]
           }
         ],
@@ -1343,26 +1377,14 @@ window.TRIP = {
         "note": "Jullie bepalen zelf wat er in de kar gaat! Alleen de cocktail-ingrediënten staan vast, die willen we er echt bij hebben. De rest hieronder is inspiratie."
       },
       {
-        "title": "Nog te verdelen",
-        "task": "Basis-keuken & busproviand",
+        "title": "Iedereen zelf",
+        "task": "Proviand voor de busrit van dag 7",
         "who": [
-          "nog niet verdeeld"
+          "iedereen, voor zichzelf"
         ],
         "groups": [
           {
-            "title": "Basis-keuken (voor álle gerechten)",
-            "items": [
-              "Olie (olijf + zonnebloem)",
-              "Zout, peper",
-              "Komijn, paprikapoeder, chilipoeder",
-              "Knoflook (bulk)",
-              "Uien (bulk)",
-              "Limoenen (bulk)",
-              "Extra koriander"
-            ]
-          },
-          {
-            "title": "Busproviand dag 7 (lange rit van 11 uur, dit is de laatste goede winkel)",
+            "title": "Denk aan",
             "items": [
               "Chips, koekjes, noten, crackers, ontbijtkoek",
               "Fruit voor onderweg",
@@ -1370,7 +1392,7 @@ window.TRIP = {
             ]
           }
         ],
-        "note": "Deze twee horen bij geen enkel team, maar moeten wel mee. Spreek even af wie ze pakt, anders staan we straks zonder zout of zonder snacks in de bus."
+        "note": "Naast de gezamenlijke boodschappen slaat iedereen bij deze stop haar eigen eten en drinken in voor de busrit van dag 7. Dat is een rit van 11 uur en dit is de laatste goede winkel, dus koop ruim in."
       }
     ]
   }
