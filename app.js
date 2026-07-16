@@ -404,7 +404,7 @@
         T.shopping.teams.forEach(function (team, i) {
           var mine = shopRows.filter(function (r) { return r.team === i; });
           var d = mine.filter(function (r) { return !!st[r.key]; }).length;
-          if (team.countEl) team.countEl.textContent = d + "/" + mine.length;
+          if (team.countEl) team.countEl.textContent = mine.length ? d + "/" + mine.length : "";
         });
         if (shopCountEl) shopCountEl.textContent = done + "/" + shopTotal();
       }

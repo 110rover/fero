@@ -177,17 +177,16 @@ Iris Brouwer · Roos Burkens · Pien Goselink · Willemijn Jansen · Valentine K
 ---
 
 ## Boodschappen
-> Eén supermarkt-stop op dag 4, onderweg van de vulkaan naar Villa Lisa. We doen in vijf teams boodschappen voor de villa (donderdag t/m zaterdag). Voor 18 personen, waarvan 2 vegetariërs. Hoeveelheden zijn een richtlijn, niet heilig. De basis-keuken (kruiden, olie, knoflook, bulk-uien en -limoenen) is verdeeld over de teams en staat onderaan jullie eigen lijstje. De villa heeft een startvoorraad koffie, thee, water en basics, dus koop dat alleen bij als het op is. En er is een kookhulp in de villa, dus vraag gerust om hulp.
+> Op dag 4 maken we een supermarkt-stop, onderweg van de vulkaan naar Villa Lisa. We doen in vijf teams boodschappen voor de villa (donderdag t/m zaterdag). Hoeveelheden zijn een richtlijn, niet heilig en maak vooral zelf een inschatting. De basis-keuken (kruiden, olie, knoflook, bulk-uien en -limoenen) is verdeeld over de teams en staat onderaan jullie eigen lijstje. De villa heeft een startvoorraad koffie, thee, water en basics. In de villa hebben we kookhulp die ons kan helpen met koken. Vergeet ook niet voor jezelf boodschappen te doen!
 
 ### Team 1 · Avondeten donderdag: enchiladas
 *Wie:* Emma; Roos; Klaartje
-> De kok kan dit voorbereiden, zodat het klaarstaat als jullie van de vulkaan komen.
+
 **Enchiladas**
 - Tortilla's, 36 (maïs of tarwe)
 - Kip, 2 kg
 - Vega (2 pers.): zwarte bonen, 2 blikken + mais, 1 blik
 - Passata of kant-en-klare enchiladasaus, 2 L
-- Ui, 1
 - Geraspte kaas, 600 g
 - Zure room
 - Verse koriander
@@ -230,10 +229,10 @@ Iris Brouwer · Roos Burkens · Pien Goselink · Willemijn Jansen · Valentine K
 
 ### Team 3 · Avondeten zaterdag: gevulde paprika's met rijst
 *Wie:* Iris; Maxime; Valerie; Lauren
-> De kok kan dit vooraf maken en warm klaarzetten tegen dat we terug zijn van de boottocht.
+
 **Gevulde paprika's**
 - Paprika's, 18
-- Rijst (droog), 1,2 kg
+- Rijst, 1,2 kg
 - Rundergehakt, 1,2 kg (vlees-variant)
 - Vega (2 pers.): zwarte bonen, 2 blikken + mais, 1 blik
 - Passata (tomatensaus), 2 L
@@ -247,7 +246,7 @@ Iris Brouwer · Roos Burkens · Pien Goselink · Willemijn Jansen · Valentine K
 
 ### Team 4 · Ontbijt & lunch
 *Wie:* Fieke; Fabienne; Pien; Sterre
-> Jullie mogen dit helemaal zelf invullen! Hieronder staat wat wij hadden bedacht, puur als inspiratie. Iets anders maken mag dus prima.
+> Jullie mogen dit helemaal zelf invullen! Hieronder staat wat wij hadden bedacht, puur als inspiratie. Iets anders maken mag ook.
 **Ontbijt vrijdag & zaterdag (inspiratie)**
 - Yoghurt, 3 L
 - Granola, 1 kg
@@ -276,7 +275,7 @@ Iris Brouwer · Roos Burkens · Pien Goselink · Willemijn Jansen · Valentine K
 
 ### Team 5 · Drinken & snacks
 *Wie:* Valentine; Frederique; Willemijn
-> Jullie bepalen zelf wat er in de kar gaat! Alleen de cocktail-ingrediënten staan vast, die willen we er echt bij hebben. De rest hieronder is inspiratie.
+> Jullie kunnen zelf bepalen wat je koopt! Alleen voor de cocktail-ingrediënten hebben we een lijstje. En vergeet niet voldoende water mee te nemen
 **Cocktail: Guatemalteekse rum punch (vast, ± 8 glazen per kan)**
 - Rum, 500 ml (lokaal: Ron Botran of Zacapa)
 - Ananassap, 1 L
@@ -284,29 +283,14 @@ Iris Brouwer · Roos Burkens · Pien Goselink · Willemijn Jansen · Valentine K
 - Limoenen, 4
 - Grenadine (optioneel, voor de kleur)
 - Schijfjes limoen en ananas om te garneren
-**Drank (inspiratie)**
-- Drinkwater, ruim (± 1,5 L p.p. per dag)
-- Bier: Corona, ± 2 kratten
-- Bier: gewone pils (lokaal: Gallo), ± 2 kratten
-- Wijn: wit/rosé, 6 à 8 flessen (evt. rood)
-- Mixers/fris: cola, tonic, sodawater, sinas
-- IJs
-**Snacks & borrel (inspiratie)**
-- Tortillachips, 3 zakken
-- Verse guacamole donderdag: avocado's, 6 + limoenen, 2 + rode ui, 1 + tomaat, 1 + koriander
-- Potjes salsa + guacamole-dip
-- Plantaanchips
-- Gemengde noten
-- Olijven
-- Kaasblokjes + crackers
+
+**Drank**
+- Drinkwater, ruim (± 1,5 L p.p. per dag; komt neer op 70 liter totaal ongeveer)
+
 
 ### Iedereen zelf · Proviand voor de busrit van dag 7
 *Wie:* iedereen, voor zichzelf
 > Naast de gezamenlijke boodschappen slaat iedereen bij deze stop haar eigen eten en drinken in voor de busrit van dag 7. Dat is een rit van 11 uur en dit is de laatste goede winkel, dus koop ruim in.
-**Denk aan**
-- Chips, koekjes, noten, crackers, ontbijtkoek
-- Fruit voor onderweg
-- Extra water & blikjes
 
 ---
 

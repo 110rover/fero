@@ -1146,7 +1146,7 @@ window.TRIP = {
     }
   ],
   "shopping": {
-    "intro": "Eén supermarkt-stop op dag 4, onderweg van de vulkaan naar Villa Lisa. We doen in vijf teams boodschappen voor de villa (donderdag t/m zaterdag). Voor 18 personen, waarvan 2 vegetariërs. Hoeveelheden zijn een richtlijn, niet heilig. De basis-keuken (kruiden, olie, knoflook, bulk-uien en -limoenen) is verdeeld over de teams en staat onderaan jullie eigen lijstje. De villa heeft een startvoorraad koffie, thee, water en basics, dus koop dat alleen bij als het op is. En er is een kookhulp in de villa, dus vraag gerust om hulp.",
+    "intro": "Op dag 4 maken we een supermarkt-stop, onderweg van de vulkaan naar Villa Lisa. We doen in vijf teams boodschappen voor de villa (donderdag t/m zaterdag). Hoeveelheden zijn een richtlijn, niet heilig en maak vooral zelf een inschatting. De basis-keuken (kruiden, olie, knoflook, bulk-uien en -limoenen) is verdeeld over de teams en staat onderaan jullie eigen lijstje. De villa heeft een startvoorraad koffie, thee, water en basics. In de villa hebben we kookhulp die ons kan helpen met koken. Vergeet ook niet voor jezelf boodschappen te doen!",
     "teams": [
       {
         "title": "Team 1",
@@ -1164,7 +1164,6 @@ window.TRIP = {
               "Kip, 2 kg",
               "Vega (2 pers.): zwarte bonen, 2 blikken + mais, 1 blik",
               "Passata of kant-en-klare enchiladasaus, 2 L",
-              "Ui, 1",
               "Geraspte kaas, 600 g",
               "Zure room",
               "Verse koriander",
@@ -1181,8 +1180,7 @@ window.TRIP = {
               "Extra koriander"
             ]
           }
-        ],
-        "note": "De kok kan dit voorbereiden, zodat het klaarstaat als jullie van de vulkaan komen."
+        ]
       },
       {
         "title": "Team 2",
@@ -1256,7 +1254,7 @@ window.TRIP = {
             "title": "Gevulde paprika's",
             "items": [
               "Paprika's, 18",
-              "Rijst (droog), 1,2 kg",
+              "Rijst, 1,2 kg",
               "Rundergehakt, 1,2 kg (vlees-variant)",
               "Vega (2 pers.): zwarte bonen, 2 blikken + mais, 1 blik",
               "Passata (tomatensaus), 2 L",
@@ -1273,8 +1271,7 @@ window.TRIP = {
               "Peper"
             ]
           }
-        ],
-        "note": "De kok kan dit vooraf maken en warm klaarzetten tegen dat we terug zijn van de boottocht."
+        ]
       },
       {
         "title": "Team 4",
@@ -1328,7 +1325,7 @@ window.TRIP = {
             ]
           }
         ],
-        "note": "Jullie mogen dit helemaal zelf invullen! Hieronder staat wat wij hadden bedacht, puur als inspiratie. Iets anders maken mag dus prima."
+        "note": "Jullie mogen dit helemaal zelf invullen! Hieronder staat wat wij hadden bedacht, puur als inspiratie. Iets anders maken mag ook."
       },
       {
         "title": "Team 5",
@@ -1351,30 +1348,13 @@ window.TRIP = {
             ]
           },
           {
-            "title": "Drank (inspiratie)",
+            "title": "Drank",
             "items": [
-              "Drinkwater, ruim (± 1,5 L p.p. per dag)",
-              "Bier: Corona, ± 2 kratten",
-              "Bier: gewone pils (lokaal: Gallo), ± 2 kratten",
-              "Wijn: wit/rosé, 6 à 8 flessen (evt. rood)",
-              "Mixers/fris: cola, tonic, sodawater, sinas",
-              "IJs"
-            ]
-          },
-          {
-            "title": "Snacks & borrel (inspiratie)",
-            "items": [
-              "Tortillachips, 3 zakken",
-              "Verse guacamole donderdag: avocado's, 6 + limoenen, 2 + rode ui, 1 + tomaat, 1 + koriander",
-              "Potjes salsa + guacamole-dip",
-              "Plantaanchips",
-              "Gemengde noten",
-              "Olijven",
-              "Kaasblokjes + crackers"
+              "Drinkwater, ruim (± 1,5 L p.p. per dag; komt neer op 70 liter totaal ongeveer)"
             ]
           }
         ],
-        "note": "Jullie bepalen zelf wat er in de kar gaat! Alleen de cocktail-ingrediënten staan vast, die willen we er echt bij hebben. De rest hieronder is inspiratie."
+        "note": "Jullie kunnen zelf bepalen wat je koopt! Alleen voor de cocktail-ingrediënten hebben we een lijstje. En vergeet niet voldoende water mee te nemen"
       },
       {
         "title": "Iedereen zelf",
@@ -1382,16 +1362,7 @@ window.TRIP = {
         "who": [
           "iedereen, voor zichzelf"
         ],
-        "groups": [
-          {
-            "title": "Denk aan",
-            "items": [
-              "Chips, koekjes, noten, crackers, ontbijtkoek",
-              "Fruit voor onderweg",
-              "Extra water & blikjes"
-            ]
-          }
-        ],
+        "groups": [],
         "note": "Naast de gezamenlijke boodschappen slaat iedereen bij deze stop haar eigen eten en drinken in voor de busrit van dag 7. Dat is een rit van 11 uur en dit is de laatste goede winkel, dus koop ruim in."
       }
     ]
