@@ -9,6 +9,17 @@
 > `- **Transport:** HH:MM · VAN → NAAR · duur: X · ophalen: PLEK · meenemen: A; B`
 > `- **Activiteit:** HH:MM · NAAM · duur: X · ophalen: PLEK · meenemen: A; B`
 > (duur mag "1,5 uur" zijn, of iets als "2 dagen / 1 nacht" / "tot dag 13".)
+> Alles achter de tijd is optioneel: laat `ophalen:` weg als je nergens wordt opgehaald.
+> Let op: `·` scheidt de velden, dus gebruik dat teken niet ín een naam. Een komma mag wel.
+>
+> **Formaat van de Boodschappen-sectie:**
+> `### Team 1 · Avondeten donderdag: enchiladas`  ← teamnaam · wat ze doen
+> `*Wie:* Emma; Roos; Klaartje`                    ← namen met puntkomma's
+> `> Een opmerking voor dit team.`                 ← optioneel, komt boven het lijstje
+> `**Kopje boven een lijstje**`                    ← bijv. Enchiladas, Guacamole, Basis-keuken
+> `- Item, hoeveelheid`                            ← wordt een afvinkbaar hokje in de app
+> Een `>` regel direct onder `## Boodschappen` (dus vóór het eerste team) is de intro-tekst.
+> Teams toevoegen of weghalen mag gewoon; de app telt vanzelf mee.
 
 ---
 
