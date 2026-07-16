@@ -337,7 +337,6 @@
     if (T.shopping && T.shopping.teams && T.shopping.teams.length) {
       h += '<details class="acc" id="shop-acc"><summary>🛒 Boodschappen dag 4 <span class="muted sm" id="shop-count"></span></summary><div class="acc-body">';
       if (T.shopping.intro) h += '<p class="muted sm" style="margin-top:0">' + esc(T.shopping.intro) + "</p>";
-      h += '<div class="btn-row" style="margin:0 0 12px"><button class="btn dark sm" id="shop-reset">↺ Reset</button></div>';
       h += '<div id="shoplist"></div></div></details>';
     }
 
@@ -458,7 +457,6 @@
         shoplist.appendChild(wrap);
       });
 
-      node.querySelector("#shop-reset").addEventListener("click", function () { shopSave({}); paintShop(); });
       setTimeout(paintShop, 0);
     }
     return node;
