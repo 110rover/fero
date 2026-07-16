@@ -392,6 +392,9 @@ window.TRIP = {
         "d": false
       },
       "intro": "Tijd om de prachtige omgeving van Lago Atitlán te verkennen. De gids haalt ons met een privéboot op bij de steiger en vaart met ons langs de dorpjes rond het meer (San Juan, Santiago, San Marcos, San Pedro en meer). We overleggen samen met de gids wat ons het leukst lijkt; willen jullie je van tevoren verdiepen in de dorpjes, kijk dan vast hier (https://www.reisjunk.nl/guatemala/lake-atitlan/). Een klifsprong kan voor ±Q25.",
+      "tips": [
+        "De lunch eten we vandaag onderweg in een van de dorpjes, dus daar hoeven we in de villa niets voor te regelen. Neem wel genoeg cash mee. San Pedro staat bekend om de fish tacos, San Marcos om de gezonde lunch, en Santa Cruz heeft het mooiste uitzicht."
+      ],
       "activity": [
         {
           "dep": "09:30",
@@ -1146,7 +1149,7 @@ window.TRIP = {
     }
   ],
   "shopping": {
-    "intro": "Op dag 4 maken we een supermarkt-stop, onderweg van de vulkaan naar Villa Lisa. We doen in vijf teams boodschappen voor de villa (donderdag t/m zaterdag). Hoeveelheden zijn een richtlijn, niet heilig en maak vooral zelf een inschatting. De basis-keuken (kruiden, olie, knoflook, bulk-uien en -limoenen) is verdeeld over de teams en staat onderaan jullie eigen lijstje. De villa heeft een startvoorraad koffie, thee, water en basics. In de villa hebben we kookhulp die ons kan helpen met koken. Vergeet ook niet voor jezelf boodschappen te doen!",
+    "intro": "Op dag 4 maken we een supermarkt-stop, onderweg van de vulkaan naar Villa Lisa. We doen in vijf teams boodschappen voor de villa (donderdag t/m zaterdag). Hoeveelheden zijn een richtlijn, niet heilig en maak vooral zelf een inschatting. De basis-keuken (kruiden, olie, knoflook, bulk-uien en -limoenen) is verdeeld over de teams en staat onderaan jullie eigen lijstje. De villa heeft een startvoorraad drinkwater, koffie, thee, suiker, zout, peper en bakolie, dus die hoeven we niet te kopen. In de villa hebben we kookhulp die ons kan helpen met koken. Vergeet ook niet voor jezelf boodschappen te doen!",
     "teams": [
       {
         "title": "Team 1",
@@ -1162,6 +1165,7 @@ window.TRIP = {
             "items": [
               "Tortilla's, 36 (maïs of tarwe)",
               "Kip, 2 kg",
+              "Paprika's, 12 (voor in de vulling)",
               "Vega (2 pers.): zwarte bonen, 2 blikken + mais, 1 blik",
               "Passata of kant-en-klare enchiladasaus, 2 L",
               "Geraspte kaas, 600 g",
@@ -1176,11 +1180,11 @@ window.TRIP = {
               "Komijn",
               "Paprikapoeder",
               "Chilipoeder",
-              "Knoflook (bulk)",
-              "Extra koriander"
+              "Knoflook (bulk)"
             ]
           }
-        ]
+        ],
+        "note": "Extra groente voor in de vulling: in het Tijdschrift staat het recept zonder paprika, maar wij kopen ze wel. Roer ze mee door de kip."
       },
       {
         "title": "Team 2",
@@ -1215,7 +1219,6 @@ window.TRIP = {
             "title": "Guacamole",
             "items": [
               "Avocado's, 8",
-              "Limoenen, 3",
               "Uien, 2",
               "Tomaten, 2",
               "Verse koriander"
@@ -1226,7 +1229,6 @@ window.TRIP = {
             "items": [
               "Tomaten, 1 kg",
               "Rode uien, 2",
-              "Limoen, 1",
               "Verse koriander",
               "Chili"
             ]
@@ -1234,7 +1236,7 @@ window.TRIP = {
           {
             "title": "Basis-keuken (voor álle gerechten)",
             "items": [
-              "Limoenen (bulk)"
+              "Limoenen (bulk, dekt ook jullie guacamole en salsa)"
             ]
           }
         ],
@@ -1258,7 +1260,6 @@ window.TRIP = {
               "Rundergehakt, 1,2 kg (vlees-variant)",
               "Vega (2 pers.): zwarte bonen, 2 blikken + mais, 1 blik",
               "Passata (tomatensaus), 2 L",
-              "Ui, 1",
               "Geraspte kaas, 400 g",
               "Sla voor een groene salade, of brood"
             ]
@@ -1266,9 +1267,7 @@ window.TRIP = {
           {
             "title": "Basis-keuken (voor álle gerechten)",
             "items": [
-              "Uien (bulk)",
-              "Zout",
-              "Peper"
+              "Uien (bulk, dekt ook de ui voor jullie eigen vulling)"
             ]
           }
         ]
@@ -1320,12 +1319,11 @@ window.TRIP = {
           {
             "title": "Basis-keuken (voor álle gerechten)",
             "items": [
-              "Olijfolie",
-              "Zonnebloemolie"
+              "Olijfolie (voor de dressing; de villa heeft alleen gewone bakolie)"
             ]
           }
         ],
-        "note": "Jullie mogen dit helemaal zelf invullen! Hieronder staat wat wij hadden bedacht, puur als inspiratie. Iets anders maken mag ook."
+        "note": "Jullie mogen dit helemaal zelf invullen! Hieronder staat wat wij hadden bedacht, puur als inspiratie. Iets anders maken mag ook. De lunch van zaterdag hoeven jullie niet te regelen: die eten we onderweg in de dorpjes tijdens de boottocht."
       },
       {
         "title": "Team 5",
